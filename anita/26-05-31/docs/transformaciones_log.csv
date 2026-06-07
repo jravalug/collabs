@@ -1,0 +1,7 @@
+fila,campo,valor_original,valor_nuevo,motivo
+35,grado,3B,3,reparacion: 3B->3 (mezcla grado+grupo)
+119,p06_conoces_significado_ahorro,54,,outlier Likert (fuera de rango 1-5)
+458,p11_conoces_que_es_presupuesto,42,,outlier Likert (fuera de rango 1-5)
+414,p12_conoces_tasa_interes,55,,outlier Likert (fuera de rango 1-5)
+122,p14_entendes_inflacion,23,,outlier Likert (fuera de rango 1-5)
+8,fecha_aplicacion,3/1/1900,6/3/2025,"reemplazo: 6/3/2025 (fecha del resto de escuela Salvador Esquer Apodaca, n=13)"

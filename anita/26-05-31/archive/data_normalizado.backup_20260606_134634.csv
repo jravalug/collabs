@@ -1,0 +1,657 @@
+nivel_educativo;nombre_escuela;tipo_escuela;sexo;edad;grado;grupo;fecha_aplicacion;a_convivencia;b_vivienda;c_negocio_familiar;p01_has_escuchado_educacion_financiera;p02_conoces_significado_educacion_financiera;p03_te_gustaria_aprender_educacion_financiera;p04_consideras_importante_educacion_financiera;p05_definicion_educacion_financiera;p06_conoces_significado_ahorro;p07_tienes_cuenta_ahorro;p08_constante_responsable_ahorrar;p09_opinion_credito_banco_caja;p10_conoces_que_es_credito;p11_conoces_que_es_presupuesto;p12_conoces_tasa_interes;p13_comprendes_que_es_inversion;p14_entendes_inflacion;p15_entendes_devaluacion_dinero;p16_diferencias_tarjeta_credito_debito;p17_ahorras_fuera_instituciones;p18_como_gustarian_clases
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;5;5;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;No;2;2;3;5;a) Estrategias para manejo de finanzas personales;5;No;5;1;1;5;1;1;1;3;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;5;1;5;3;3;5;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;Sí;3;2;3;4;b) Habilidades y conocimientos para el dinero;3;Sí;3;2;1;1;1;2;1;2;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Propia;Sí;2;1;3;5;b) Habilidades y conocimientos para el dinero;3;Sí;4;3;3;1;1;2;2;1;2;No;Exposiciones, ejemplos y practicas
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Propia;Sí;1;1;3;3;c) Ninguna;5;Sí;3;3;1;3;1;3;5;1;3;Sí;Sin comentarios
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;1;2;1;1;1;1;1;1;No;Que me den plata
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Rentada;No;3;2;5;4;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;2;4;3;5;3;4;3;Sí;Videos y clases interactivas
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Propia;No;3;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;3;5;5;5;5;5;4;No;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;15;3;B;19/3/2025;Uno de ellos;Rentada;No;5;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;1;4;4;5;5;5;5;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Propia;Sí;2;1;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;2;3;1;4;2;1;1;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Rentada;Sí;1;1;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;5;5;5;1;5;3;2;5;Sí;No se
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;15;3;B;19/3/2025;Padres;Propia;No;3;3;4;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;3;3;2;4;4;3;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Rentada;Sí;3;3;3;3;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;4;4;4;4;5;3;2;Sí;Videos y clases interactivas
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;No;3;3;3;3;a) Estrategias para manejo de finanzas personales;2;No;3;3;4;3;4;2;3;3;3;Sí;Videos y clases interactivas
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;Sí;5;5;3;5;b) Habilidades y conocimientos para el dinero;5;No;4;5;4;5;1;5;5;4;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;15;3;B;19/3/2025;Padres;Rentada;Sí;3;4;5;5;b) Habilidades y conocimientos para el dinero;5;No;5;3;4;5;3;5;2;4;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;15;3;B;19/3/2025;Padres;Propia;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;2;3;2;5;1;2;2;1;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;15;3;B;19/3/2025;Uno de ellos;Propia;Sí;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;4;4;5;5;5;5;5;4;No;Exposiciones, ejemplos y practicas
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;17;3;B;19/3/2025;Padres;Propia;Sí;1;1;4;4;d) No sé;1;No;5;5;3;5;1;1;1;1;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Propia;No;3;4;4;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;2;3;4;3;4;4;2;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;Sí;4;5;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;4;4;4;3;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;No;1;1;3;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;4;3;3;3;4;3;3;5;Sí;Sin comentarios
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Propia;Sí;1;3;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;4;1;5;3;1;4;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;15;3;B;19/3/2025;Padres;Propia;Sí;1;1;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;1;4;4;4;1;5;3;1;4;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Rentada;Sí;1;1;3;4;a) Estrategias para manejo de finanzas personales;5;No;1;4;4;4;1;5;3;1;4;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Otro familiar;Propia;No;3;3;4;5;b) Habilidades y conocimientos para el dinero;5;No;4;4;5;5;4;5;5;3;4;Sí;Videos y clases interactivas
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Uno de ellos;Prestada;No;3;2;2;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;4;3;3;3;4;2;2;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Efran Gonzlez Luna;Pública;Mujer;14;3;B;19/3/2025;Padres;Propia;Sí;4;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;5;5;5;5;5;5;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;Sí;3;2;5;5;d) No sé;5;No;5;4;5;5;1;5;1;1;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;Sí;3;3;2;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;1;5;5;5;5;3;2;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;15;3;B;19/3/2025;Padres;Propia;Sí;3;4;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;5;4;3;4;3;5;2;2;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;14;3;B;19/3/2025;Padres;Propia;Sí;2;3;5;4;b) Habilidades y conocimientos para el dinero;4;Sí;3;2;2;3;1;4;3;2;1;Sí;Videos y clases interactivas
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;15;3;B;19/3/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;4;5;5;3;2;3;1;5;No;Trabajos en equipo
+Secundaria;Efran Gonzlez Luna;Pública;Hombre;16;3B;1;19/3/2025;Uno de ellos;Propia;No;3;3;2;4;d) No sé;5;Sí;4;2;5;4;2;5;2;2;3;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Instituto Autlense;Privada;Mujer;13;2;A;7/3/2025;Padres;Propia;Sí;3;2;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;2;4;3;4;4;4;3;1;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Instituto Autlense;Privada;Hombre;14;2;A;7/3/2025;Uno de ellos;Propia;No;3;2;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;5;4;5;4;3;4;2;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Instituto Autlense;Privada;Mujer;13;2;A;7/3/2025;Uno de ellos;Propia;No;3;1;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;3;4;1;3;3;4;2;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Instituto Autlense;Privada;Mujer;13;2;A;7/3/2025;Padres;Propia;Sí;4;3;4;5;a) Estrategias para manejo de finanzas personales;4;No;4;4;3;4;4;4;3;4;2;Sí;Videos y clases interactivas
+Secundaria;Instituto Autlense;Privada;Hombre;14;2;A;7/3/2025;Padres;Propia;No;2;3;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;2;4;2;4;5;5;4;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Instituto Autlense;Privada;Mujer;13;2;A;7/3/2025;Uno de ellos;Propia;Sí;1;2;4;4;a) Estrategias para manejo de finanzas personales;5;No;3;5;5;5;2;5;2;4;5;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;Sí;1;1;3;3;b) Habilidades y conocimientos para el dinero;5;No;4;4;3;5;4;4;5;4;5;Sí;Videos y clases interactivas
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;Sí;1;1;3;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;3;5;5;5;5;5;5;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;4;5;5;4;5;4;4;4;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;No;3;2;5;4;b) Habilidades y conocimientos para el dinero;4;Sí;3;3;3;4;2;3;3;2;4;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Instituto Autlense;Privada;Hombre;14;2;A;7/3/2025;Padres;Propia;Sí;2;1;3;5;b) Habilidades y conocimientos para el dinero;4;Sí;3;3;1;4;1;1;3;2;4;Sí;Trabajos en equipo
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;No;3;2;5;5;b) Habilidades y conocimientos para el dinero;4;No;1;3;5;5;2;5;2;1;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;No;3;3;4;5;b) Habilidades y conocimientos para el dinero;5;No;4;3;5;4;3;4;4;5;5;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Instituto Autlense;Privada;Mujer;13;2;A;7/3/2025;Uno de ellos;Propia;Sí;4;3;3;5;a) Estrategias para manejo de finanzas personales;4;No;3;3;4;5;3;4;3;4;5;No;Exposiciones, ejemplos y practicas
+Secundaria;Instituto Autlense;Privada;Hombre;14;2;A;7/3/2025;Padres;Propia;Sí;4;4;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;4;5;4;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Rentada;Sí;2;2;5;4;a) Estrategias para manejo de finanzas personales;4;Sí;1;3;4;3;2;2;4;3;1;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;Sí;1;1;3;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;2;5;3;3;4;4;2;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;No;1;3;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;4;3;2;4;5;4;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;Sí;3;4;5;5;b) Habilidades y conocimientos para el dinero;4;No;3;5;4;4;2;4;3;2;2;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Instituto Autlense;Privada;Mujer;13;2;A;7/3/2025;Padres;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;2;5;5;1;4;2;1;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Instituto Autlense;Privada;Hombre;13;2;A;7/3/2025;Padres;Propia;Sí;2;1;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;4;2;5;2;4;5;4;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Instituto Autlense;Privada;Mujer;14;2;A;7/3/2025;Uno de ellos;Propia;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;4;5;4;5;5;4;5;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Instituto Autlense;Privada;Mujer;14;2;A;7/3/2025;Padres;Propia;Sí;2;2;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;5;4;5;3;4;4;3;3;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;15;3;A;19/3/2025;Padres;Propia;Sí;3;3;4;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;4;4;1;3;4;2;1;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;Sí;1;2;4;4;b) Habilidades y conocimientos para el dinero;5;Sí;2;4;2;1;1;3;3;1;3;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Padres;Propia;Sí;1;1;1;1;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;5;5;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;15;3;A;19/3/2025;Padres;Rentada;No;1;1;1;1;a) Estrategias para manejo de finanzas personales;1;No;1;1;1;5;2;5;5;3;2;Sí;No se
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;No;1;1;4;3;b) Habilidades y conocimientos para el dinero;2;Sí;1;3;4;2;1;4;1;1;1;Sí;Videos y clases interactivas
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Uno de ellos;Propia;Sí;4;4;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;5;3;4;3;2;1;2;3;Sí;Trabajos en equipo
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;Sí;5;4;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;5;5;4;5;5;5;5;Sí;Videos y clases interactivas
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Padres;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;4;4;5;4;4;4;4;4;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;15;3;A;19/3/2025;Padres;Propia;Sí;1;1;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;1;3;3;5;4;3;4;1;Sí;Ganar dinero
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;No;1;2;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;4;2;5;3;5;4;5;3;Sí;Talleres, cursos y tutoriales
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;Sí;1;2;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;2;5;5;2;2;1;2;1;Sí;Exposiciones, ejemplos y practicas
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;Sí;5;3;4;5;a) Estrategias para manejo de finanzas personales;4;No;3;3;3;5;1;4;4;4;5;Sí;Divertidas, entretenidas e interesantes
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;15;3;A;19/3/2025;Padres;Propia;Sí;3;3;3;5;a) Estrategias para manejo de finanzas personales;4;Sí;1;3;3;5;1;5;3;2;2;Sí;Videos y clases interactivas
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Uno de ellos;Propia;Sí;3;4;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;2;3;4;4;3;4;5;5;2;Sí;Videos y clases interactivas
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;No;1;1;2;3;a) Estrategias para manejo de finanzas personales;3;Sí;1;2;2;1;1;4;1;1;3;Sí;Trabajos en equipo
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;15;3;A;19/3/2025;Padres;Propia;No;2;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;4;5;4;5;4;4;4;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;No;4;3;5;5;b) Habilidades y conocimientos para el dinero;5;No;5;5;5;3;2;3;2;3;2;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;15;3;A;19/3/2025;Uno de ellos;Rentada;Sí;3;4;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;5;3;5;2;4;5;5;2;Sí;Videos y clases interactivas
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Padres;Propia;Sí;3;2;1;1;a) Estrategias para manejo de finanzas personales;1;No;5;2;1;2;3;2;2;2;4;No;Divertidas, entretenidas e interesantes
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;15;3;A;19/3/2025;Padres;Propia;Sí;2;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;3;5;5;4;5;5;5;Sí;Talleres, cursos y tutoriales
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Prestada;Sí;2;2;5;5;b) Habilidades y conocimientos para el dinero;3;Sí;3;5;4;5;3;2;2;1;5;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Padres;Propia;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;4;5;2;5;4;4;2;No;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Padres;Rentada;Sí;3;2;4;3;a) Estrategias para manejo de finanzas personales;4;Sí;3;2;3;4;4;4;4;4;3;Sí;Exposiciones, ejemplos y practicas
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;15;3;A;19/3/2025;Uno de ellos;Rentada;No;2;2;2;5;d) No sé;3;Sí;3;3;3;2;1;3;3;2;2;Sí;No se
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;15;3;A;19/3/2025;Padres;Propia;Sí;3;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;4;5;4;4;4;4;4;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;15;3;A;19/3/2025;Padres;Propia;Sí;3;3;5;5;d) No sé;4;Sí;4;3;3;5;3;5;3;2;3;No;Expertos en el tema, dinmicas y simulaciones
+Secundaria;J. Jess Velzquez Gmez;Pública;Mujer;14;3;A;19/3/2025;Padres;Propia;No;3;2;5;5;d) No sé;5;No;4;5;3;5;3;5;4;2;5;Sí;Sin comentarios
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Padres;Rentada;Sí;4;3;5;5;b) Habilidades y conocimientos para el dinero;4;No;4;2;3;3;4;5;3;3;1;Sí;Sin comentarios
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;15;3;A;19/3/2025;Uno de ellos;Propia;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;5;5;4;5;4;4;5;Sí;Explicacin, estrategias y actividades
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Uno de ellos;Propia;Sí;4;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;4;5;5;5;5;5;5;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;J. Jess Velzquez Gmez;Pública;Hombre;14;3;A;19/3/2025;Padres;Propia;Sí;3;3;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;4;3;5;2;5;1;1;4;Sí;Exposiciones y practicas
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;2;D;10/4/2025;Padres;Rentada;No;1;1;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;1;4;1;1;1;1;1;1;5;No;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Padres;Rentada;Sí;5;1;5;4;b) Habilidades y conocimientos para el dinero;5;Sí;5;5;5;5;1;5;1;1;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;2;D;10/4/2025;Otro familiar;Propia;No;3;3;4;4;a) Estrategias para manejo de finanzas personales;3;No;3;4;2;4;1;3;1;2;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Uno de ellos;Rentada;Sí;1;1;3;3;b) Habilidades y conocimientos para el dinero;5;Sí;2;4;5;2;2;5;1;2;3;No;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Hombre;13;2;D;10/4/2025;Uno de ellos;Propia;Sí;1;1;3;5;a) Estrategias para manejo de finanzas personales;5;No;1;5;1;5;1;2;5;5;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Hombre;13;2;D;10/4/2025;Padres;Propia;No;3;1;5;5;a) Estrategias para manejo de finanzas personales;3;No;3;1;1;4;1;3;4;3;1;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Jaime Llamas Garca;Pública;Hombre;13;2;D;10/4/2025;Padres;Rentada;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;5;5;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Padres;Propia;No;1;1;5;1;d) No sé;5;No;3;4;3;2;3;2;2;2;2;No;No se
+Secundaria;Jaime Llamas Garca;Pública;Hombre;13;2;D;10/4/2025;Uno de ellos;Rentada;Sí;5;5;4;3;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;5;5;5;5;5;5;5;Sí;Trabajos en equipo
+Secundaria;Jaime Llamas Garca;Pública;Hombre;13;2;D;10/4/2025;Uno de ellos;Rentada;Sí;5;3;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;1;3;5;5;5;5;5;5;5;Sí;Trabajos en equipo
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Padres;Rentada;No;3;1;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;3;4;3;3;1;1;1;2;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;15;2;D;10/4/2025;Padres;Propia;Sí;3;2;5;5;a) Estrategias para manejo de finanzas personales;3;No;3;4;3;5;2;4;1;1;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Uno de ellos;Rentada;No;1;1;5;5;b) Habilidades y conocimientos para el dinero;5;No;1;3;2;1;1;2;1;1;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Padres;Propia;Sí;2;3;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;3;3;4;3;1;2;1;1;2;No;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Uno de ellos;Propia;Sí;4;4;5;4;b) Habilidades y conocimientos para el dinero;5;Sí;5;5;3;5;4;4;4;4;3;Sí;Sin comentarios
+Secundaria;Jaime Llamas Garca;Pública;Hombre;12;2;D;10/4/2025;Padres;Propia;Sí;5;4;5;4;b) Habilidades y conocimientos para el dinero;5;Sí;4;3;5;5;3;4;3;4;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Padres;Propia;No;1;1;5;5;d) No sé;5;No;3;3;5;5;1;3;1;2;4;Sí;Trabajos en equipo
+Secundaria;Jaime Llamas Garca;Pública;Hombre;15;2;D;10/4/2025;Padres;Propia;No;2;5;5;5;b) Habilidades y conocimientos para el dinero;5;No;3;2;5;4;3;5;1;2;2;No;Trabajos en equipo
+Secundaria;Jaime Llamas Garca;Pública;Mujer;13;2;D;10/4/2025;Padres;Rentada;Sí;3;2;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;4;2;5;1;4;4;1;1;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;2;D;10/4/2025;Padres;Propia;No;4;2;3;4;b) Habilidades y conocimientos para el dinero;5;No;3;2;5;4;3;4;4;4;5;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Hombre;14;2;D;10/4/2025;Padres;Rentada;No;2;3;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;2;3;5;1;3;4;2;3;Sí;Videos y clases interactivas
+Secundaria;Jaime Llamas Garca;Pública;Hombre;13;2;D;10/4/2025;Padres;Rentada;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;4;4;2;5;2;5;5;2;1;Sí;Trabajos en equipo
+Secundaria;Jaime Llamas Garca;Pública;Hombre;14;2;D;10/4/2025;Padres;Propia;No;1;1;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;4;3;4;3;3;2;2;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Jaime Llamas Garca;Pública;Hombre;13;2;D;10/4/2025;Uno de ellos;Rentada;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;1;1;3;5;2;5;5;1;5;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Jaime Llamas Garca;Pública;Hombre;13;2;D;10/4/2025;Uno de ellos;Rentada;No;1;1;4;4;a) Estrategias para manejo de finanzas personales;5;No;2;5;3;3;1;4;1;1;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;2;D;10/4/2025;Padres;Rentada;No;1;1;5;5;a) Estrategias para manejo de finanzas personales;1;Sí;1;2;1;1;1;1;2;2;1;No;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;15;3;A;10/4/2025;Uno de ellos;Propia;Sí;3;2;5;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;5;4;4;4;3;3;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Padres;Propia;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;2;1;5;5;4;4;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Uno de ellos;Rentada;No;2;2;5;3;d) No sé;5;Sí;2;2;3;3;3;3;1;1;2;No;No se
+Secundaria;Jaime Llamas Garca;Pública;Hombre;14;3;A;10/4/2025;Padres;Propia;Sí;3;2;4;5;a) Estrategias para manejo de finanzas personales;54;No;4;3;2;3;1;2;2;2;2;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Padres;Propia;No;3;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;4;5;2;4;4;4;3;No;No se
+Secundaria;Jaime Llamas Garca;Pública;Hombre;14;3;A;10/4/2025;Padres;Propia;No;1;1;5;5;a) Estrategias para manejo de finanzas personales;1;Sí;1;5;1;1;1;1;1;1;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Hombre;14;3;A;10/4/2025;Padres;Propia;Sí;1;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;3;3;2;3;23;4;2;No;Videos y clases interactivas
+Secundaria;Jaime Llamas Garca;Pública;Mujer;15;3;A;10/4/2025;Padres;Propia;Sí;3;2;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;1;5;2;3;1;5;5;2;1;No;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Hombre;14;3;A;10/4/2025;Padres;Propia;No;3;4;4;4;a) Estrategias para manejo de finanzas personales;3;Sí;3;1;3;3;2;4;4;3;4;No;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Hombre;15;3;A;10/4/2025;Padres;Rentada;Sí;2;3;2;4;d) No sé;2;Sí;2;2;2;2;2;2;3;3;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Hombre;15;3;A;10/4/2025;Padres;Propia;No;3;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;5;4;5;5;5;4;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Hombre;15;3;A;10/4/2025;Padres;Rentada;No;2;3;5;4;a) Estrategias para manejo de finanzas personales;4;No;1;4;5;5;3;5;5;2;1;No;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Hombre;15;3;A;10/4/2025;Padres;Propia;Sí;2;3;5;4;a) Estrategias para manejo de finanzas personales;4;No;1;4;5;5;3;5;5;2;1;No;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Hombre;15;3;A;10/4/2025;Uno de ellos;Propia;Sí;3;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;2;4;5;4;4;3;3;5;Sí;Videos y clases interactivas
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Otro familiar;Propia;No;2;3;5;5;b) Habilidades y conocimientos para el dinero;5;No;5;5;5;5;2;5;2;5;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Jaime Llamas Garca;Pública;Hombre;14;3;A;10/4/2025;Padres;Propia;No;2;1;3;3;b) Habilidades y conocimientos para el dinero;5;Sí;3;4;1;1;1;1;2;3;2;No;No se
+Secundaria;Jaime Llamas Garca;Pública;Hombre;15;3;A;10/4/2025;Padres;Propia;No;2;2;5;4;d) No sé;5;Sí;2;1;2;2;2;3;2;3;3;Sí;No me llama la atencin
+Secundaria;Jaime Llamas Garca;Pública;Hombre;16;3;A;10/4/2025;Padres;Propia;Sí;5;5;5;5;b) Habilidades y conocimientos para el dinero;4;No;4;3;1;3;4;4;3;2;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Hombre;15;3;A;10/4/2025;Uno de ellos;Rentada;No;3;1;4;5;b) Habilidades y conocimientos para el dinero;5;No;4;3;4;4;2;2;1;2;4;No;No se
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Padres;Rentada;No;1;1;5;3;b) Habilidades y conocimientos para el dinero;5;Sí;3;5;5;5;5;5;1;1;2;Sí;Videos y clases interactivas
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Padres;Propia;No;2;5;1;2;d) No sé;5;Sí;2;1;5;5;1;1;2;1;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Uno de ellos;Propia;Sí;3;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;2;1;2;2;3;3;1;1;No;No se
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Padres;Propia;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;1;5;5;4;5;4;3;4;Sí;Talleres, cursos y tutoriales
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Uno de ellos;Propia;No;5;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;3;3;3;4;3;5;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;;15;3;A;10/4/2025;Uno de ellos;Propia;No;2;3;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;1;3;5;5;4;5;1;5;5;Sí;No se
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Padres;Rentada;No;1;1;5;5;a) Estrategias para manejo de finanzas personales;4;No;2;4;3;3;3;4;1;1;1;No;Videos y clases interactivas
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Uno de ellos;Propia;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;5;4;2;3;3;4;2;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Jaime Llamas Garca;Pública;Mujer;14;3;A;10/4/2025;Padres;Propia;No;1;1;2;2;d) No sé;2;Sí;2;2;5;2;1;2;1;2;2;Sí;No se
+Secundaria;Jaime Llamas Garca;Pública;Mujer;15;3;A;10/4/2025;Padres;Propia;No;1;1;5;5;b) Habilidades y conocimientos para el dinero;5;No;1;4;1;5;1;5;1;1;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Jaime Llamas Garca;Pública;Mujer;51;3;A;10/4/2025;Otro familiar;Propia;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;5;5;4;5;4;4;4;Sí;Practicas, con formularios, aplicadas e investigaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Uno de ellos;Rentada;Sí;2;1;4;5;a) Estrategias para manejo de finanzas personales;5;No;2;4;3;1;1;1;1;1;1;No;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Padres;Propia;No;1;1;1;1;a) Estrategias para manejo de finanzas personales;1;No;1;1;1;5;4;5;3;3;5;Sí;Juegos Interactivos
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Uno de ellos;Propia;Sí;1;1;2;3;a) Estrategias para manejo de finanzas personales;4;Sí;3;5;1;1;1;2;2;1;1;No;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Padres;Propia;Sí;2;1;3;5;d) No sé;5;Sí;5;4;5;1;1;1;1;1;1;No;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;15;3;A;6/3/2025;Padres;Propia;No;1;1;1;1;a) Estrategias para manejo de finanzas personales;1;No;1;1;1;2;3;1;1;1;3;Sí;Talleres, cursos y tutoriales
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;A;6/3/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;4;5;3;5;4;4;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;A;6/3/2025;Padres;Propia;Sí;4;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;2;5;5;5;3;5;5;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;A;6/3/2025;Padres;Propia;Sí;5;5;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;5;5;5;5;5;5;5;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;A;6/3/2025;Padres;Propia;No;3;2;3;5;b) Habilidades y conocimientos para el dinero;5;No;1;2;5;5;2;5;5;5;5;No;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Uno de ellos;Propia;Sí;5;3;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;3;5;5;5;5;5;5;5;No;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Padres;Propia;No;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;2;4;5;4;5;5;5;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;15;3;A;6/3/2025;Padres;Propia;No;5;2;3;5;b) Habilidades y conocimientos para el dinero;1;Sí;2;4;2;1;4;3;3;3;5;No;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Padres;Propia;No;1;2;1;4;b) Habilidades y conocimientos para el dinero;3;No;3;3;2;3;1;3;1;1;2;No;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Padres;Propia;No;2;1;1;3;a) Estrategias para manejo de finanzas personales;5;No;1;3;5;5;1;5;1;1;5;Sí;Divertidas y entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;A;6/3/2025;Padres;Propia;Sí;1;1;1;1;a) Estrategias para manejo de finanzas personales;1;No;1;1;1;3;1;4;3;4;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Uno de ellos;Rentada;Sí;1;1;3;4;b) Habilidades y conocimientos para el dinero;5;No;1;3;4;3;1;5;5;1;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Padres;Rentada;Sí;3;2;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;4;3;2;4;4;3;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;A;6/3/2025;Padres;Propia;No;1;1;3;3;a) Estrategias para manejo de finanzas personales;5;Sí;3;5;5;5;3;3;4;4;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Padres;Propia;No;1;1;5;5;b) Habilidades y conocimientos para el dinero;3;Sí;1;1;5;5;3;2;2;3;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Padres;Propia;Sí;3;2;3;3;a) Estrategias para manejo de finanzas personales;5;No;5;2;5;4;1;5;1;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Padres;Rentada;No;3;1;4;5;a) Estrategias para manejo de finanzas personales;2;Sí;3;2;1;2;1;3;1;2;1;No;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;A;6/3/2025;Padres;Propia;Sí;2;2;3;2;d) No sé;5;No;4;3;4;4;2;4;1;3;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Padres;Propia;No;1;1;1;3;a) Estrategias para manejo de finanzas personales;4;No;2;4;3;3;1;2;1;1;2;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Uno de ellos;Rentada;No;2;1;2;3;b) Habilidades y conocimientos para el dinero;3;No;4;1;3;1;1;3;1;1;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Padres;Propia;Sí;2;1;3;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;1;3;4;3;4;4;3;3;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Padres;Rentada;No;3;1;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;5;1;3;1;3;1;1;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;A;6/3/2025;Padres;Propia;Sí;2;1;3;4;a) Estrategias para manejo de finanzas personales;5;No;3;3;1;3;1;3;1;1;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;15;3;B;6/3/2025;Padres;Propia;Sí;1;2;5;3;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;2;4;1;2;1;1;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Padres;Prestada;Sí;1;1;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;3;2;1;1;1;2;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;B;6/3/2025;Padres;Propia;Sí;1;1;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;4;5;5;1;5;5;1;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;B;6/3/2025;Padres;Propia;Sí;3;3;4;3;a) Estrategias para manejo de finanzas personales;4;No;3;4;4;4;4;4;4;4;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;B;6/3/2025;Padres;Propia;No;4;5;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;5;5;5;4;5;5;4;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;B;6/3/2025;Uno de ellos;Propia;No;3;3;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;4;5;5;4;5;5;3;4;Sí;Videos y clases interactivas
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;16;3;B;6/3/2025;Otro familiar;Rentada;No;3;3;4;5;a) Estrategias para manejo de finanzas personales;4;No;4;2;4;4;4;4;5;4;5;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;B;6/3/2025;Padres;Propia;Sí;2;2;1;3;a) Estrategias para manejo de finanzas personales;5;No;2;4;3;5;5;5;5;5;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Uno de ellos;Propia;Sí;2;3;5;3;a) Estrategias para manejo de finanzas personales;5;Sí;1;3;2;5;1;4;3;3;3;No;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Padres;Rentada;Sí;2;4;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;2;5;3;5;4;4;4;No;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;B;6/3/2025;Padres;Propia;No;2;1;3;1;a) Estrategias para manejo de finanzas personales;5;Sí;4;2;4;4;3;5;2;5;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Padres;Propia;Sí;3;2;4;5;a) Estrategias para manejo de finanzas personales;5;No;4;4;4;4;3;4;2;2;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;B;6/3/2025;Padres;Rentada;No;1;1;4;4;b) Habilidades y conocimientos para el dinero;5;No;3;3;2;4;1;3;1;1;2;Sí;Videos y clases interactivas
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Uno de ellos;Rentada;No;3;2;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;4;2;3;3;3;4;4;4;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;B;6/3/2025;Otro familiar;Propia;Sí;3;1;3;3;a) Estrategias para manejo de finanzas personales;5;No;1;4;2;2;1;2;2;1;1;Sí;Exposiciones, ejemplos y practicas
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Uno de ellos;Propia;No;4;2;5;5;a) Estrategias para manejo de finanzas personales;4;No;3;4;5;4;4;5;3;3;5;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;16;3;B;6/3/2025;Uno de ellos;Propia;Sí;5;5;5;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;5;5;5;3;5;2;3;3;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Padres;Prestada;Sí;4;1;1;4;d) No sé;5;No;3;3;1;3;1;5;4;2;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Uno de ellos;Prestada;Sí;4;1;1;4;d) No sé;4;No;3;3;1;3;2;4;3;2;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;B;6/3/2025;Padres;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;4;4;3;3;3;4;2;3;4;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;B;6/3/2025;Padres;Propia;Sí;4;2;3;4;b) Habilidades y conocimientos para el dinero;5;No;4;4;5;5;2;4;4;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Uno de ellos;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;1;4;3;3;3;3;3;3;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Uno de ellos;Propia;No;3;2;3;5;b) Habilidades y conocimientos para el dinero;5;Sí;2;3;2;1;3;4;3;3;5;Sí;Videos y clases interactivas
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;15;3;B;6/3/2025;Padres;Propia;No;1;1;1;1;a) Estrategias para manejo de finanzas personales;1;No;1;1;1;5;5;5;3;3;5;No;Exposiciones, ejemplos y practicas
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;B;6/3/2025;Padres;Rentada;Sí;3;3;5;5;a) Estrategias para manejo de finanzas personales;1;No;3;3;3;3;3;3;3;4;4;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;B;6/3/2025;Padres;Propia;No;2;2;2;3;a) Estrategias para manejo de finanzas personales;5;No;4;4;2;3;3;3;3;3;3;Sí;Sin comentarios
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;D;6/3/2025;Uno de ellos;Rentada;No;5;3;5;5;b) Habilidades y conocimientos para el dinero;4;No;5;5;4;4;3;5;4;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Propia;No;1;1;4;4;a) Estrategias para manejo de finanzas personales;5;No;3;1;5;5;5;5;5;5;5;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Uno de ellos;Rentada;No;2;2;3;3;b) Habilidades y conocimientos para el dinero;5;Sí;3;4;4;4;5;4;4;2;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Prestada;Sí;1;1;3;3;d) No sé;5;No;5;5;5;4;1;5;2;3;5;Sí;No se
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Propia;Sí;3;1;2;3;b) Habilidades y conocimientos para el dinero;5;Sí;2;5;4;3;1;2;2;1;2;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Padres;Propia;Sí;5;3;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;2;4;1;5;3;4;1;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;16;3;D;6/3/2025;Padres;Rentada;Sí;1;1;4;3;d) No sé;4;Sí;2;4;2;3;1;4;3;3;4;No;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Otro familiar;Propia;Sí;1;1;3;2;a) Estrategias para manejo de finanzas personales;5;Sí;2;3;1;3;2;3;3;1;1;Sí;No se
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;18;3;D;6/3/2025;Padres;Rentada;Sí;5;1;5;5;a) Estrategias para manejo de finanzas personales;4;No;5;5;5;5;5;5;4;5;5;Sí;Videos y clases interactivas
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Propia;No;2;1;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;2;4;4;2;2;1;1;2;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;20;3;D;6/3/2025;Otro familiar;Propia;Sí;1;1;3;3;d) No sé;3;No;3;3;2;2;2;2;1;2;2;Sí;Videos y clases interactivas
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Otro familiar;Propia;Sí;2;2;4;4;d) No sé;3;Sí;3;4;3;3;3;4;3;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;4;No;2;4;1;5;4;5;4;5;5;No;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Uno de ellos;Propia;Sí;3;2;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;5;4;4;3;3;4;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Padres;Propia;No;2;1;4;3;d) No sé;4;No;4;3;2;3;1;2;2;3;5;No;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Uno de ellos;Propia;No;2;1;3;3;b) Habilidades y conocimientos para el dinero;5;Sí;5;1;4;4;3;4;5;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Rentada;No;5;3;5;5;a) Estrategias para manejo de finanzas personales;4;No;3;3;3;4;4;5;5;4;4;No;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Padres;Rentada;No;3;2;1;4;a) Estrategias para manejo de finanzas personales;5;No;4;3;4;3;1;4;1;3;3;Sí;Videos y clases interactivas
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Padres;Rentada;Sí;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;4;5;3;5;4;3;4;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Uno de ellos;Rentada;No;1;2;3;5;b) Habilidades y conocimientos para el dinero;5;No;4;5;4;5;2;5;2;2;1;Sí;Expertos en el tema, dinmicas y simulaciones
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Propia;No;2;2;5;5;b) Habilidades y conocimientos para el dinero;3;Sí;4;2;1;4;1;3;3;2;1;No;Videos y clases interactivas
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;15;3;D;6/3/2025;Uno de ellos;Propia;No;2;5;5;5;a) Estrategias para manejo de finanzas personales;5;No;1;4;5;5;5;5;5;5;1;No;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Propia;Sí;5;4;3;5;b) Habilidades y conocimientos para el dinero;3;Sí;2;5;1;3;1;2;2;3;1;Sí;Divertidas, entretenidas e interesantes
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Propia;No;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;5;5;5;1;5;1;4;2;Sí;Videos y clases interactivas
+Secundaria;Manuel Lpez Cotilla;Pública;Hombre;14;3;D;6/3/2025;Padres;Propia;Sí;2;3;1;3;a) Estrategias para manejo de finanzas personales;5;No;4;4;3;3;1;4;4;4;5;Sí;Explicacin, estrategias y actividades
+Secundaria;Manuel Lpez Cotilla;Pública;Mujer;14;3;D;6/3/2025;Padres;Rentada;Sí;1;1;2;1;b) Habilidades y conocimientos para el dinero;5;Sí;3;2;3;5;2;5;2;2;2;Sí;No se
+Telesecundaria;Benito Jurez;Pública;Hombre;14;3;A;12/3/2025;Padres;Propia;No;3;2;4;3;d) No sé;3;Sí;3;1;1;3;3;4;4;3;3;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Benito Jurez;Pública;Hombre;15;3;A;12/3/2025;Padres;Propia;No;2;1;5;4;d) No sé;1;No;2;1;1;2;1;2;2;3;1;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Benito Jurez;Pública;Mujer;14;3;A;12/3/2025;Padres;Propia;Sí;2;3;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;2;1;1;4;1;2;1;2;1;Sí;Clases en lnea
+Telesecundaria;Benito Jurez;Pública;Hombre;15;3;A;12/3/2025;Padres;Propia;No;3;1;5;5;b) Habilidades y conocimientos para el dinero;4;No;1;1;1;2;1;1;1;5;5;No;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Benito Jurez;Pública;Mujer;14;3;A;12/3/2025;Padres;Propia;No;1;1;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;3;1;3;1;4;1;2;1;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Benito Jurez;Pública;Mujer;14;3;A;12/3/2025;Padres;Propia;No;1;1;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;4;1;5;1;4;1;1;1;Sí;Trabajos en equipo
+Telesecundaria;Benito Jurez;Pública;Hombre;14;3;A;12/3/2025;Uno de ellos;Propia;No;3;2;3;4;a) Estrategias para manejo de finanzas personales;3;No;2;3;1;3;3;4;4;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Benito Jurez;Pública;Mujer;15;3;A;12/3/2025;Padres;Propia;No;1;1;3;1;a) Estrategias para manejo de finanzas personales;5;No;2;1;1;1;1;2;1;1;1;Sí;Exposiciones, ejemplos y practicas
+Telesecundaria;Benito Jurez;Pública;Mujer;14;3;A;12/3/2025;Uno de ellos;Propia;No;3;1;4;3;a) Estrategias para manejo de finanzas personales;3;Sí;3;2;3;5;4;4;3;2;2;Sí;Videos y clases interactivas
+Telesecundaria;Francisco Navarro Maytorena;Pública;Mujer;14;3;A;13/3/2025;Padres;Propia;No;3;3;2;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;4;4;4;3;3;3;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Francisco Navarro Maytorena;Pública;Mujer;14;3;A;13/3/2025;Padres;Propia;No;5;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;3;5;1;4;1;1;2;No;Explicacin, estrategias y actividades
+Telesecundaria;Francisco Navarro Maytorena;Pública;Hombre;14;3;A;13/3/2025;Uno de ellos;Rentada;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;4;4;4;4;5;4;4;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Francisco Navarro Maytorena;Pública;Mujer;14;3;A;13/3/2025;Uno de ellos;Propia;No;3;2;3;5;d) No sé;4;Sí;3;4;3;3;3;3;2;2;3;No;Explicacin, estrategias y actividades
+Telesecundaria;Francisco Navarro Maytorena;Pública;Mujer;15;3;A;13/3/2025;Padres;Propia;No;1;3;5;5;b) Habilidades y conocimientos para el dinero;5;No;3;2;3;3;1;5;3;3;1;No;Videos y clases interactivas
+Telesecundaria;Francisco Navarro Maytorena;Pública;Hombre;14;3;A;13/3/2025;Padres;Propia;No;4;4;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;5;5;5;4;5;5;5;5;Sí;Clases en lnea
+Telesecundaria;Francisco Navarro Maytorena;Pública;Mujer;14;3;A;13/3/2025;Padres;Rentada;No;2;2;3;5;b) Habilidades y conocimientos para el dinero;5;No;3;4;5;5;3;5;3;4;2;No;Exposiciones, ejemplos y practicas
+Telesecundaria;Francisco Navarro Maytorena;Pública;Mujer;15;3;A;13/3/2025;Otro familiar;Propia;No;2;2;1;2;b) Habilidades y conocimientos para el dinero;5;No;5;3;3;4;2;3;1;1;3;No;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Francisco Navarro Maytorena;Pública;Hombre;15;3;A;13/3/2025;Padres;Propia;No;2;2;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;5;3;4;3;4;2;2;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Francisco Navarro Maytorena;Pública;Hombre;14;3;A;13/3/2025;Uno de ellos;Propia;Sí;5;5;5;4;b) Habilidades y conocimientos para el dinero;5;Sí;1;2;5;5;3;5;3;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Francisco Navarro Maytorena;Pública;Mujer;15;3;A;13/3/2025;Otro familiar;Propia;Sí;2;1;2;3;b) Habilidades y conocimientos para el dinero;3;No;1;2;3;2;1;2;2;1;1;No;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Hombre;13;2;A;14/5/2025;Uno de ellos;Propia;No;1;1;3;5;a) Estrategias para manejo de finanzas personales;3;Sí;3;1;3;1;1;3;3;3;3;No;Hablar sobre inflacin y devaluacin
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;14;2;A;14/5/2025;Padres;Propia;No;3;3;4;4;a) Estrategias para manejo de finanzas personales;5;No;2;2;5;5;4;4;5;4;5;Sí;Sencillas con lenguaje cotidiano e informacin
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;13;2;A;14/5/2025;Uno de ellos;Propia;No;3;3;4;4;a) Estrategias para manejo de finanzas personales;5;No;2;2;5;5;4;4;5;4;5;No;Sencillas con lenguaje cotidiano e informacin
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Hombre;13;2;A;14/5/2025;Uno de ellos;Propia;Sí;5;4;3;3;d) No sé;5;No;5;2;1;5;4;3;4;4;3;Sí;Como tengan que ser
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;14;2;A;14/5/2025;Padres;Propia;Sí;1;1;3;3;d) No sé;5;Sí;4;2;3;5;3;5;3;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;14;2;A;14/5/2025;Padres;Propia;No;1;3;3;3;d) No sé;5;Sí;5;2;4;5;3;5;4;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;14;2;A;14/5/2025;Padres;Propia;No;1;1;5;5;a) Estrategias para manejo de finanzas personales;3;No;2;3;1;5;2;1;3;5;2;No;Trabajos en equipo
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;14;2;A;14/5/2025;Padres;Propia;No;2;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;2;5;5;2;5;2;5;5;Sí;Divertidas, entretenidas e interesantes
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;14;2;A;14/5/2025;Padres;Propia;No;3;1;5;5;b) Habilidades y conocimientos para el dinero;5;No;2;2;3;1;2;3;1;3;5;Sí;Divertidas, entretenidas e interesantes
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Hombre;13;2;A;14/5/2025;Padres;Propia;Sí;1;1;3;3;b) Habilidades y conocimientos para el dinero;4;No;2;4;4;4;2;4;1;2;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;14;2;A;14/5/2025;Uno de ellos;Prestada;No;1;2;3;5;b) Habilidades y conocimientos para el dinero;5;No;3;4;3;2;1;2;1;1;2;No;Trabajos en equipo
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;14;2;A;14/5/2025;Uno de ellos;Rentada;No;1;1;3;4;a) Estrategias para manejo de finanzas personales;1;No;1;4;4;4;4;1;1;1;4;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;13;2;A;14/5/2025;Uno de ellos;Rentada;No;2;3;5;4;a) Estrategias para manejo de finanzas personales;4;No;4;3;2;3;2;3;1;1;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;13;2;A;14/5/2025;Padres;Propia;No;5;3;3;4;a) Estrategias para manejo de finanzas personales;4;No;4;4;4;4;3;4;5;4;4;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Hombre;14;2;A;14/5/2025;Padres;Propia;No;2;2;4;4;a) Estrategias para manejo de finanzas personales;4;No;3;3;3;3;3;3;4;2;2;No;Trabajos en equipo
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Hombre;14;2;A;14/5/2025;Uno de ellos;Prestada;No;1;1;1;2;a) Estrategias para manejo de finanzas personales;4;No;3;3;5;2;1;4;2;1;3;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Mujer;13;2;A;14/5/2025;Padres;Propia;No;1;1;3;5;a) Estrategias para manejo de finanzas personales;5;No;2;1;3;2;1;1;1;1;1;No;Videos y clases interactivas
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Hombre;13;2;A;14/5/2025;Padres;Propia;Sí;5;3;3;4;b) Habilidades y conocimientos para el dinero;5;Sí;2;4;4;5;2;4;3;2;3;No;Que los maestros no sean estrictos
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Hombre;13;2;A;14/5/2025;Padres;Propia;Sí;3;2;4;5;d) No sé;3;Sí;3;4;3;2;3;2;1;2;2;No;Trabajos en equipo
+Telesecundaria;Jos Mara Morelos y Pavn;Pública;Hombre;13;2;A;14/5/2025;Padres;Propia;Sí;2;1;4;5;a) Estrategias para manejo de finanzas personales;5;No;3;1;1;3;2;4;1;1;1;Sí;Trabajos en equipo
+Telesecundaria;Jos Mara Vigil;Pública;Mujer;14;3;A;11/3/2025;Padres;Propia;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;4;5;5;5;5;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Vigil;Pública;Hombre;14;3;A;11/3/2025;Uno de ellos;Propia;No;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;1;1;1;5;5;5;5;5;5;No;Explicacin, estrategias y actividades
+Telesecundaria;Jos Mara Vigil;Pública;Mujer;14;3;A;11/3/2025;Padres;Propia;Sí;3;3;3;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;4;1;3;2;5;3;2;3;No;Explicacin, estrategias y actividades
+Telesecundaria;Jos Mara Vigil;Pública;Hombre;14;3;A;11/3/2025;Padres;Propia;No;2;3;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;1;1;4;3;5;1;3;5;Sí;Sin comentarios
+Telesecundaria;Jos Mara Vigil;Pública;Mujer;14;3;A;11/3/2025;Padres;Propia;No;4;3;5;5;a) Estrategias para manejo de finanzas personales;4;No;3;5;1;4;3;5;4;4;3;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Jos Mara Vigil;Pública;Hombre;14;3;A;11/3/2025;Padres;Propia;Sí;3;3;4;4;b) Habilidades y conocimientos para el dinero;5;Sí;5;3;1;4;3;4;4;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Vigil;Pública;Hombre;14;3;A;11/3/2025;Padres;Propia;No;3;5;4;5;b) Habilidades y conocimientos para el dinero;5;No;4;3;1;4;3;5;5;4;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Vigil;Pública;Hombre;15;3;A;11/3/2025;Uno de ellos;Propia;Sí;3;3;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;2;3;1;4;4;3;4;4;4;No;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Vigil;Pública;Hombre;14;3;A;11/3/2025;Padres;Propia;Sí;4;3;5;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;1;4;4;3;4;5;4;Sí;Videos y clases interactivas
+Telesecundaria;Jos Mara Vigil;Pública;Mujer;14;3;A;11/3/2025;Padres;Propia;No;3;3;3;5;b) Habilidades y conocimientos para el dinero;5;Sí;1;1;1;5;2;4;2;3;5;Sí;Trabajos en equipo
+Telesecundaria;Jos Mara Vigil;Pública;Mujer;14;3;A;11/3/2025;Uno de ellos;Propia;Sí;2;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;1;1;5;3;4;2;3;4;Sí;Trabajos en equipo
+Telesecundaria;Jos Mara Vigil;Pública;Hombre;14;3;A;11/3/2025;Uno de ellos;Rentada;Sí;3;2;4;3;b) Habilidades y conocimientos para el dinero;4;Sí;3;4;1;5;3;4;3;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Jos Mara Vigil;Pública;Hombre;14;3;A;11/3/2025;Padres;Propia;No;3;2;4;3;b) Habilidades y conocimientos para el dinero;4;Sí;3;3;1;5;3;4;3;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Nios Hroes;Pública;Hombre;15;3;A;13/3/2025;Padres;Propia;Sí;5;5;5;5;b) Habilidades y conocimientos para el dinero;5;No;1;3;5;5;5;5;5;5;5;No;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Nios Hroes;Pública;Hombre;15;3;A;13/3/2025;Padres;Propia;Sí;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;4;3;4;3;4;5;5;5;No;Exposiciones, ejemplos y practicas
+Telesecundaria;Nios Hroes;Pública;Mujer;14;3;A;13/3/2025;Padres;Propia;Sí;1;1;3;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;4;1;3;1;3;1;2;2;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Nios Hroes;Pública;Mujer;15;3;A;13/3/2025;Padres;Propia;Sí;1;1;3;5;a) Estrategias para manejo de finanzas personales;4;Sí;2;4;1;1;5;3;1;2;3;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Nios Hroes;Pública;Mujer;14;3;A;13/3/2025;Padres;Propia;No;3;2;4;5;b) Habilidades y conocimientos para el dinero;4;Sí;3;2;4;2;1;3;1;1;2;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Nios Hroes;Pública;Hombre;14;3;A;13/3/2025;Padres;Rentada;No;1;1;5;3;b) Habilidades y conocimientos para el dinero;5;No;3;3;2;5;2;2;1;1;1;No;Explicacin, estrategias y actividades
+Telesecundaria;Nios Hroes;Pública;Hombre;15;3;A;13/3/2025;Padres;Propia;No;5;5;5;5;b) Habilidades y conocimientos para el dinero;5;No;4;2;5;2;3;5;1;2;3;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Nios Hroes;Pública;Mujer;14;3;A;13/3/2025;Padres;Propia;No;1;1;2;2;d) No sé;2;No;2;2;2;2;2;2;1;2;2;Sí;Trabajos en equipo
+Telesecundaria;Nios Hroes;Pública;Mujer;14;3;A;13/3/2025;Padres;Rentada;No;5;1;3;5;b) Habilidades y conocimientos para el dinero;5;No;3;3;3;1;1;2;3;3;5;Sí;Trabajos en equipo
+Telesecundaria;Nios Hroes;Pública;Mujer;14;3;A;13/3/2025;Uno de ellos;Propia;No;1;1;3;5;b) Habilidades y conocimientos para el dinero;5;No;5;3;5;5;1;5;1;5;5;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Nios Hroes;Pública;Hombre;14;3;A;13/3/2025;Padres;Propia;No;4;4;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;3;5;4;4;5;5;4;5;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Nios Hroes;Pública;Hombre;14;3;A;13/3/2025;Padres;Propia;No;2;2;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;4;5;5;1;5;1;2;5;Sí;Trabajos en equipo
+Telesecundaria;Nios Hroes;Pública;Hombre;15;3;A;13/3/2025;Padres;Rentada;No;3;2;4;5;a) Estrategias para manejo de finanzas personales;2;No;2;3;1;4;3;4;4;4;1;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Salvador Esquer Apodaca;Pública;Mujer;14;3;A;3/1/1900;Uno de ellos;Propia;Sí;5;1;1;3;b) Habilidades y conocimientos para el dinero;5;No;3;4;3;1;1;2;1;2;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Salvador Esquer Apodaca;Pública;Mujer;17;3;A;6/3/2025;Otro familiar;Propia;Sí;3;2;4;4;b) Habilidades y conocimientos para el dinero;4;Sí;2;3;2;2;1;2;2;1;1;No;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Salvador Esquer Apodaca;Pública;Hombre;14;3;A;6/3/2025;Uno de ellos;Propia;Sí;2;5;3;4;b) Habilidades y conocimientos para el dinero;1;Sí;2;3;1;2;3;2;3;3;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Salvador Esquer Apodaca;Pública;Hombre;15;3;A;6/3/2025;Padres;Propia;Sí;2;3;3;4;d) No sé;5;Sí;4;2;1;5;2;3;1;5;3;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Salvador Esquer Apodaca;Pública;Mujer;15;3;A;6/3/2025;Padres;Propia;Sí;3;1;4;2;b) Habilidades y conocimientos para el dinero;5;No;5;3;4;3;2;4;3;3;4;No;Exposiciones, ejemplos y practicas
+Telesecundaria;Salvador Esquer Apodaca;Pública;Hombre;14;3;A;6/3/2025;Uno de ellos;Rentada;Sí;2;1;3;3;b) Habilidades y conocimientos para el dinero;4;No;4;4;4;4;3;3;3;3;4;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Salvador Esquer Apodaca;Pública;Mujer;15;3;A;6/3/2025;Uno de ellos;Propia;Sí;2;2;3;4;b) Habilidades y conocimientos para el dinero;5;No;3;4;3;4;2;3;2;4;4;Sí;Exposiciones, ejemplos y practicas
+Telesecundaria;Salvador Esquer Apodaca;Pública;Hombre;14;3;A;6/3/2025;Padres;Propia;No;3;4;5;5;b) Habilidades y conocimientos para el dinero;3;No;3;3;4;3;4;3;3;4;3;Sí;Exposiciones, ejemplos y practicas
+Telesecundaria;Salvador Esquer Apodaca;Pública;Hombre;15;3;A;6/3/2025;Uno de ellos;Propia;No;3;1;4;5;a) Estrategias para manejo de finanzas personales;5;No;4;4;5;4;2;5;2;3;3;Sí;Exposiciones, ejemplos y practicas
+Telesecundaria;Salvador Esquer Apodaca;Pública;Hombre;14;3;A;6/3/2025;Uno de ellos;Propia;No;3;1;1;1;a) Estrategias para manejo de finanzas personales;1;No;3;4;5;5;4;4;4;3;5;Sí;Exposiciones, ejemplos y practicas
+Telesecundaria;Salvador Esquer Apodaca;Pública;Mujer;14;3;A;6/3/2025;Padres;Propia;No;2;1;1;2;d) No sé;4;Sí;1;2;2;2;1;4;1;1;1;No;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Salvador Esquer Apodaca;Pública;Hombre;14;3;A;6/3/2025;Padres;Propia;No;2;2;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;2;2;4;5;2;4;1;2;2;No;Explicacin, estrategias y actividades
+Telesecundaria;Salvador Esquer Apodaca;Pública;Hombre;14;3;A;6/3/2025;Otro familiar;Propia;Sí;3;1;4;3;b) Habilidades y conocimientos para el dinero;3;No;3;2;2;4;3;4;4;3;2;No;Explicacin, estrategias y actividades
+Telesecundaria;Salvador Esquer Apodaca;Pública;Mujer;16;3;A;6/3/2025;Padres;Propia;No;2;1;5;5;b) Habilidades y conocimientos para el dinero;5;No;5;1;1;1;1;1;1;1;1;Sí;Expertos en el tema, dinmicas y simulaciones
+Telesecundaria;Venustiano Carranza;Pública;Hombre;14;3;B;20/2/2025;Padres;Rentada;Sí;3;4;1;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;3;4;2;3;1;1;2;No;Videos y clases interactivas
+Telesecundaria;Venustiano Carranza;Pública;Mujer;14;3;B;20/2/2025;Padres;Propia;Sí;2;2;3;3;d) No sé;4;No;4;5;5;3;2;2;2;2;2;Sí;Videos y clases interactivas
+Telesecundaria;Venustiano Carranza;Pública;Mujer;14;3;B;20/2/2025;Padres;Propia;Sí;3;2;4;5;b) Habilidades y conocimientos para el dinero;4;Sí;3;2;2;4;2;4;2;2;2;Sí;Videos y clases interactivas
+Telesecundaria;Venustiano Carranza;Pública;Mujer;14;3;B;20/2/2025;Padres;Propia;Sí;1;2;1;2;a) Estrategias para manejo de finanzas personales;3;No;2;5;1;1;3;2;1;1;1;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Venustiano Carranza;Pública;Mujer;15;3;B;20/2/2025;Padres;Propia;Sí;2;1;2;1;b) Habilidades y conocimientos para el dinero;5;No;4;3;1;1;1;3;1;1;1;Sí;Investigaciones y tareas
+Telesecundaria;Venustiano Carranza;Pública;Mujer;14;3;B;20/2/2025;Padres;Propia;Sí;2;4;1;5;d) No sé;3;No;2;4;3;5;2;2;5;4;1;Sí;Divertidas, entretenidas e interesantes
+Telesecundaria;Venustiano Carranza;Pública;Mujer;14;3;B;20/2/2025;Padres;Propia;Sí;1;1;1;1;c) Ninguna;1;Sí;1;1;1;1;1;1;5;1;1;No;Videos y clases interactivas
+Telesecundaria;Venustiano Carranza;Pública;Mujer;14;3;B;20/2/2025;Padres;Prestada;Sí;2;1;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;1;5;5;1;5;1;1;1;No;Exposiciones, ejemplos y practicas
+Telesecundaria;Venustiano Carranza;Pública;Hombre;14;3;B;20/2/2025;Padres;Prestada;Sí;1;1;3;2;d) No sé;2;Sí;4;1;2;2;1;3;1;1;1;Sí;Videos y clases interactivas
+Telesecundaria;Venustiano Carranza;Pública;Mujer;15;3;B;20/2/2025;Otro familiar;Propia;No;3;2;4;4;b) Habilidades y conocimientos para el dinero;2;No;3;3;4;3;3;3;2;3;2;No;Trabajos en equipo
+Telesecundaria;Venustiano Carranza;Pública;Mujer;15;3;B;20/2/2025;Otro familiar;Propia;Sí;3;2;3;4;b) Habilidades y conocimientos para el dinero;1;Sí;5;4;3;5;2;4;1;1;2;Sí;Explicacin, estrategias y actividades
+Telesecundaria;Venustiano Carranza;Pública;Hombre;15;3;B;20/2/2025;Padres;Prestada;Sí;2;3;5;5;b) Habilidades y conocimientos para el dinero;4;Sí;5;4;5;5;5;5;5;5;4;Sí;Videos y clases interactivas
+Telesecundaria;Venustiano Carranza;Pública;Hombre;14;3;B;20/2/2025;Padres;Propia;Sí;3;5;2;3;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;5;5;3;5;2;2;2;No;Trabajos en equipo
+Telesecundaria;Venustiano Carranza;Pública;Mujer;15;3;B;20/2/2025;Padres;Propia;Sí;2;2;4;4;a) Estrategias para manejo de finanzas personales;5;No;2;1;2;2;1;3;1;1;1;No;Videos y clases interactivas
+Telesecundaria;Venustiano Carranza;Pública;Mujer;14;3;B;20/2/2025;Otro familiar;Propia;Sí;1;1;2;4;d) No sé;3;Sí;5;2;1;1;1;1;1;1;1;No;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Hombre;18;1;C;7/5/2025;Padres;Propia;Sí;2;2;2;3;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;2;5;3;4;4;4;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;2;B;7/5/2025;Padres;Rentada;No;3;2;4;4;b) Habilidades y conocimientos para el dinero;4;Sí;2;3;5;4;4;4;2;5;2;Sí;Trabajos en equipo
+Preparatoria;EPRA;Pública;Hombre;16;2;B;7/5/2025;Padres;Rentada;No;4;3;5;5;b) Habilidades y conocimientos para el dinero;4;No;5;5;2;4;2;3;3;3;2;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;2;B;7/5/2025;Uno de ellos;Propia;No;3;2;3;3;a) Estrategias para manejo de finanzas personales;3;Sí;2;4;2;3;2;3;2;3;1;No;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;15;2;B;7/5/2025;Padres;Propia;No;3;2;3;4;a) Estrategias para manejo de finanzas personales;5;No;2;4;3;5;2;4;2;1;1;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Uno de ellos;Prestada;No;3;3;5;5;b) Habilidades y conocimientos para el dinero;3;Sí;2;4;2;3;2;3;3;2;1;Sí;Materia extra y funcional
+Preparatoria;EPRA;Pública;Hombre;15;2;B;7/5/2025;Otro familiar;Propia;No;5;3;5;5;a) Estrategias para manejo de finanzas personales;3;No;3;3;3;5;3;3;3;3;5;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;17;2;B;7/5/2025;Padres;Propia;No;3;3;3;5;a) Estrategias para manejo de finanzas personales;4;Sí;5;5;4;3;4;4;2;2;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Propia;No;4;3;4;4;a) Estrategias para manejo de finanzas personales;5;No;3;3;5;3;3;4;2;2;3;Sí;Trabajos en equipo
+Preparatoria;EPRA;Pública;Hombre;15;2;B;7/5/2025;Padres;Rentada;No;4;3;4;4;b) Habilidades y conocimientos para el dinero;4;Sí;3;3;4;4;4;3;4;4;3;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;16;2;B;7/5/2025;Padres;Propia;Sí;4;4;5;4;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;5;5;3;5;3;3;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;2;B;7/5/2025;Padres;Propia;Sí;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;5;5;3;4;4;5;5;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;16;2;B;7/5/2025;Uno de ellos;Rentada;Sí;3;3;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;2;5;1;2;1;2;1;3;3;Sí;Videos y clases interactivas
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Propia;Sí;2;1;2;4;a) Estrategias para manejo de finanzas personales;5;Sí;1;3;2;2;1;5;1;1;1;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;15;2;B;7/5/2025;Uno de ellos;Propia;No;3;3;4;4;b) Habilidades y conocimientos para el dinero;5;No;3;4;3;3;3;4;4;3;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;15;2;B;7/5/2025;Padres;Propia;Sí;2;2;3;4;b) Habilidades y conocimientos para el dinero;4;No;3;2;3;3;3;3;4;3;2;Sí;Trabajos en equipo
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Uno de ellos;Propia;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;5;5;4;5;4;3;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;2;B;7/5/2025;Padres;Propia;No;1;2;5;5;a) Estrategias para manejo de finanzas personales;4;No;4;3;3;3;2;2;2;3;2;No;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Propia;Sí;3;2;3;4;b) Habilidades y conocimientos para el dinero;4;No;5;4;4;4;2;4;2;1;2;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;17;2;B;7/5/2025;Uno de ellos;Rentada;No;3;3;4;4;b) Habilidades y conocimientos para el dinero;3;No;3;4;3;3;2;2;2;2;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Propia;Sí;3;3;2;3;b) Habilidades y conocimientos para el dinero;5;Sí;2;4;3;3;2;3;1;2;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Propia;No;5;4;2;4;a) Estrategias para manejo de finanzas personales;5;No;3;2;4;4;1;2;2;1;4;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Rentada;Sí;5;4;2;4;a) Estrategias para manejo de finanzas personales;5;No;3;3;4;4;1;5;1;1;4;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;16;2;B;7/5/2025;Uno de ellos;Rentada;No;3;3;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;3;4;3;4;3;3;3;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Rentada;Sí;3;3;4;4;a) Estrategias para manejo de finanzas personales;4;Sí;5;4;5;5;3;3;2;2;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Propia;No;3;2;3;5;b) Habilidades y conocimientos para el dinero;5;No;4;4;5;4;1;2;1;1;1;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;16;2;B;7/5/2025;Padres;Propia;No;3;1;2;5;a) Estrategias para manejo de finanzas personales;3;No;4;2;5;5;1;1;1;3;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;15;2;B;7/5/2025;Padres;Rentada;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;4;3;5;3;4;3;4;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;15;2;B;7/5/2025;Padres;Propia;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;4;4;4;4;5;4;5;No;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;16;2;B;7/5/2025;Padres;Propia;No;2;2;4;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;4;4;2;4;2;3;2;No;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Hombre;17;2;B;7/5/2025;Uno de ellos;Rentada;Sí;3;3;2;1;b) Habilidades y conocimientos para el dinero;5;Sí;1;5;4;4;2;5;5;5;2;No;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;15;2;B;7/5/2025;Padres;Propia;No;1;1;1;1;d) No sé;1;No;1;1;1;5;1;5;5;1;1;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;3;B;8/5/2025;Padres;Propia;No;2;3;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;2;5;4;3;4;4;4;5;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Uno de ellos;Propia;No;2;2;1;3;a) Estrategias para manejo de finanzas personales;3;No;4;3;4;3;2;2;2;2;3;No;Videos y clases interactivas
+Preparatoria;EPRA;Pública;Hombre;16;3;B;8/5/2025;Padres;Propia;Sí;3;2;3;2;b) Habilidades y conocimientos para el dinero;4;Sí;4;4;4;3;4;3;3;4;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;3;B;8/5/2025;Padres;Propia;Sí;3;2;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;2;4;3;3;4;5;3;3;4;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Padres;Propia;Sí;3;2;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;2;4;3;3;2;4;2;2;2;Sí;Videos y clases interactivas
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Uno de ellos;Propia;No;3;3;1;1;a) Estrategias para manejo de finanzas personales;3;No;3;3;3;1;1;3;1;1;1;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;16;3;B;8/5/2025;Padres;Propia;No;3;2;3;4;b) Habilidades y conocimientos para el dinero;4;Sí;3;4;3;3;2;3;2;2;3;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;17;3;B;8/5/2025;Uno de ellos;Propia;No;3;3;5;5;d) No sé;3;No;3;2;1;3;2;2;2;2;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;3;B;8/5/2025;Padres;Propia;No;2;2;2;5;a) Estrategias para manejo de finanzas personales;4;No;5;2;5;3;3;5;1;1;5;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;18;3;B;8/5/2025;Padres;Rentada;Sí;1;3;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;1;4;5;3;5;5;5;5;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;17;3;B;8/5/2025;Padres;Propia;No;3;3;3;3;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;3;4;2;3;3;3;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;3;B;8/5/2025;Padres;Propia;Sí;5;4;4;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;4;5;3;5;4;4;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;3;B;8/5/2025;Uno de ellos;Propia;Sí;1;1;1;4;d) No sé;4;No;3;4;4;4;1;1;1;1;5;No;No se
+Preparatoria;EPRA;Pública;Mujer;17;3;B;8/5/2025;Uno de ellos;Propia;No;2;1;3;5;d) No sé;5;No;2;3;5;5;5;5;2;3;3;Sí;No se
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Padres;Propia;Sí;2;2;3;3;b) Habilidades y conocimientos para el dinero;3;Sí;3;2;3;3;1;2;1;3;3;Sí;Talleres, cursos y tutoriales
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Padres;Rentada;No;5;3;1;2;a) Estrategias para manejo de finanzas personales;5;Sí;3;2;4;3;2;4;2;3;4;Sí;Talleres, cursos y tutoriales
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Padres;Propia;Sí;2;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;2;5;3;4;3;2;2;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Uno de ellos;Propia;Sí;5;2;3;5;a) Estrategias para manejo de finanzas personales;3;No;3;4;2;3;2;2;1;1;1;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;3;B;8/5/2025;Padres;Rentada;No;2;1;3;5;a) Estrategias para manejo de finanzas personales;5;No;3;3;4;4;2;4;3;3;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;15;3;B;8/5/2025;Padres;Propia;No;2;3;2;5;a) Estrategias para manejo de finanzas personales;5;No;2;1;2;1;1;1;1;1;1;No;Sin comentarios
+Preparatoria;EPRA;Pública;Hombre;17;3;B;8/5/2025;Padres;Propia;Sí;2;1;2;2;a) Estrategias para manejo de finanzas personales;5;No;3;3;4;4;4;4;3;4;4;Sí;No se
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Padres;Propia;Sí;3;3;3;3;a) Estrategias para manejo de finanzas personales;5;No;5;5;5;2;2;2;2;2;2;Sí;Talleres, cursos y tutoriales
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Padres;Rentada;Sí;2;1;3;5;a) Estrategias para manejo de finanzas personales;2;No;3;3;4;2;2;3;1;3;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Padres;Propia;No;2;3;4;4;b) Habilidades y conocimientos para el dinero;5;No;4;3;5;5;4;4;2;4;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Uno de ellos;Rentada;Sí;1;1;5;3;a) Estrategias para manejo de finanzas personales;5;No;5;4;5;5;1;5;1;3;1;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;3;B;8/5/2025;Padres;Propia;No;2;2;4;5;b) Habilidades y conocimientos para el dinero;3;Sí;3;1;1;2;1;4;2;1;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;3;B;8/5/2025;Uno de ellos;Propia;Sí;1;3;5;5;b) Habilidades y conocimientos para el dinero;3;Sí;3;4;3;5;1;3;1;3;1;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Padres;Rentada;No;1;1;5;5;b) Habilidades y conocimientos para el dinero;4;No;2;5;2;5;1;5;4;2;1;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;18;3;C;7/5/2025;Otro familiar;Propia;No;3;1;5;5;b) Habilidades y conocimientos para el dinero;2;No;2;4;1;1;1;2;3;2;3;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;16;3;C;7/5/2025;Padres;Rentada;No;2;2;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;5;5;3;5;4;4;5;Sí;Trabajos en equipo
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Padres;Propia;No;1;1;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;5;5;5;1;5;1;1;5;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;16;3;C;7/5/2025;Padres;Propia;No;1;2;3;4;a) Estrategias para manejo de finanzas personales;5;No;4;3;2;3;1;3;2;3;1;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;16;3;C;7/5/2025;Padres;Propia;No;2;2;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;2;3;2;3;2;3;1;3;1;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Padres;Propia;Sí;3;3;4;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;2;4;2;4;3;2;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Padres;Rentada;No;2;1;4;3;b) Habilidades y conocimientos para el dinero;5;No;5;4;4;5;2;5;1;5;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;3;C;7/5/2025;Padres;Rentada;No;1;1;4;1;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;4;3;2;2;1;4;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;3;C;7/5/2025;Padres;Propia;No;5;5;5;5;b) Habilidades y conocimientos para el dinero;5;No;5;2;5;5;3;5;2;5;3;Sí;Trabajos en equipo
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Otro familiar;Rentada;No;2;2;1;3;b) Habilidades y conocimientos para el dinero;4;No;3;4;3;3;2;4;2;3;4;Sí;Videos y clases interactivas
+Preparatoria;EPRA;Pública;Hombre;17;3;C;7/5/2025;Padres;Propia;Sí;3;2;4;4;a) Estrategias para manejo de finanzas personales;4;No;4;3;3;3;2;3;3;4;4;Sí;Trabajos en equipo
+Preparatoria;EPRA;Pública;Mujer;16;3;C;7/5/2025;Padres;Propia;No;1;1;3;3;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;5;4;1;2;1;4;2;Sí;Al aire libre
+Preparatoria;EPRA;Pública;Hombre;17;3;C;7/5/2025;Otro familiar;Rentada;No;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;No;5;4;5;5;5;5;5;5;5;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;17;3;C;7/5/2025;Uno de ellos;Propia;No;3;3;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;3;4;5;3;5;5;5;5;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;16;3;C;7/5/2025;Padres;Propia;No;4;3;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;4;4;5;4;2;4;3;3;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;3;C;7/5/2025;Padres;Rentada;Sí;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;1;4;3;4;4;3;3;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Padres;Propia;Sí;1;2;3;3;a) Estrategias para manejo de finanzas personales;5;No;1;5;2;5;1;5;3;3;5;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;16;3;C;7/5/2025;Padres;Rentada;Sí;2;3;4;5;b) Habilidades y conocimientos para el dinero;4;No;4;3;4;4;2;3;3;3;2;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Otro familiar;Propia;No;5;1;5;5;b) Habilidades y conocimientos para el dinero;5;No;3;5;5;5;5;3;5;5;3;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;17;3;C;7/5/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;5;1;5;1;3;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Padres;Propia;Sí;3;2;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;3;4;5;4;5;4;1;2;Sí;Videos y clases interactivas
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Padres;Rentada;No;1;1;3;4;b) Habilidades y conocimientos para el dinero;5;Sí;2;4;1;4;1;4;1;4;1;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;16;3;C;7/5/2025;Uno de ellos;Rentada;No;1;1;3;4;a) Estrategias para manejo de finanzas personales;5;No;3;2;5;5;4;5;5;5;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;19;3;C;7/5/2025;Padres;Rentada;No;3;2;3;4;b) Habilidades y conocimientos para el dinero;5;Sí;2;3;5;5;3;5;2;2;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;4;A;7/5/2025;Uno de ellos;Propia;Sí;4;4;4;5;a) Estrategias para manejo de finanzas personales;3;Sí;1;3;4;4;4;5;3;4;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;4;A;7/5/2025;Uno de ellos;Propia;No;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;No;5;3;4;5;5;5;3;3;5;No;Talleres, cursos y tutoriales
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Padres;Propia;No;1;1;3;3;d) No sé;5;No;5;4;5;5;1;4;4;4;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;4;A;7/5/2025;Padres;Propia;No;4;4;5;4;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;3;5;2;5;2;1;1;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Padres;Propia;No;3;3;2;4;a) Estrategias para manejo de finanzas personales;5;Sí;4;1;3;5;4;5;5;4;3;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Padres;Propia;Sí;1;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;5;5;1;4;3;2;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;4;A;7/5/2025;Padres;Propia;Sí;1;1;3;5;a) Estrategias para manejo de finanzas personales;5;Sí;1;1;2;4;1;3;1;2;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;4;A;7/5/2025;Uno de ellos;Propia;Sí;2;1;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;2;3;2;4;1;1;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;4;A;7/5/2025;Padres;Propia;No;1;1;2;3;b) Habilidades y conocimientos para el dinero;5;Sí;4;3;2;5;2;3;4;1;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Padres;Propia;Sí;2;2;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;2;3;4;4;2;3;2;2;3;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;17;4;A;7/5/2025;Padres;Propia;No;3;3;5;4;b) Habilidades y conocimientos para el dinero;4;Sí;3;5;4;4;55;5;4;4;5;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;16;4;A;7/5/2025;Padres;Propia;No;4;2;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;4;1;2;3;1;3;2;1;4;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;16;4;A;7/5/2025;Padres;Propia;No;3;3;1;1;a) Estrategias para manejo de finanzas personales;2;Sí;3;2;2;2;4;4;3;4;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Uno de ellos;Rentada;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;4;3;4;3;3;3;3;4;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;4;A;7/5/2025;Padres;Propia;No;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;No;5;2;5;5;4;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Uno de ellos;Propia;No;3;5;3;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;5;5;4;5;4;4;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;4;A;7/5/2025;Padres;Propia;No;5;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;5;5;5;5;4;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;4;A;7/5/2025;Padres;Propia;Sí;4;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;5;5;5;5;5;5;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;4;A;7/5/2025;Padres;Propia;No;4;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;3;4;3;3;4;5;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Padres;Propia;Sí;3;3;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;3;4;4;4;4;4;4;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;4;A;7/5/2025;Padres;Rentada;No;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;4;5;5;5;5;5;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Padres;Propia;Sí;5;4;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;4;5;5;4;5;4;3;5;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Uno de ellos;Rentada;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;5;5;4;2;5;4;5;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;4;A;7/5/2025;Padres;Propia;No;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;4;5;2;5;4;5;2;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;18;4;A;7/5/2025;Otro familiar;Rentada;Sí;3;3;5;3;b) Habilidades y conocimientos para el dinero;5;No;2;3;5;5;1;5;5;1;1;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;16;4;A;7/5/2025;Padres;Propia;Sí;1;1;3;5;b) Habilidades y conocimientos para el dinero;5;Sí;5;3;1;4;1;4;3;1;1;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;4;D;8/5/2025;Uno de ellos;Propia;No;2;3;3;5;d) No sé;4;No;3;3;4;4;1;4;4;3;5;Sí;Novedosas
+Preparatoria;EPRA;Pública;Hombre;16;4;D;8/5/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;1;4;5;5;5;5;4;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;4;D;8/5/2025;Padres;Propia;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;5;5;4;5;5;5;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Uno de ellos;Rentada;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;4;3;2;3;2;2;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;4;D;8/5/2025;Padres;Propia;Sí;3;2;4;4;a) Estrategias para manejo de finanzas personales;5;No;1;4;4;5;3;5;1;1;4;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Padres;Propia;No;3;3;4;5;a) Estrategias para manejo de finanzas personales;5;No;3;3;3;5;3;4;4;4;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;4;D;8/5/2025;Padres;Propia;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;5;5;5;5;4;5;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;4;D;8/5/2025;Padres;Rentada;No;2;3;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;4;3;4;2;4;4;4;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;Sí;1;2;4;5;a) Estrategias para manejo de finanzas personales;5;No;3;1;3;4;4;4;1;2;1;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Rentada;No;2;1;3;3;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;2;4;1;4;1;1;1;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;No;3;3;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;3;4;4;4;4;4;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Padres;Propia;Sí;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;4;5;5;5;5;5;5;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;No;2;1;2;3;b) Habilidades y conocimientos para el dinero;5;Sí;5;2;3;4;1;5;5;5;3;Sí;No se
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;No;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;5;5;4;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;Sí;4;4;3;3;b) Habilidades y conocimientos para el dinero;5;Sí;5;4;5;5;5;5;4;4;4;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Padres;Propia;Sí;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;4;5;5;2;4;4;3;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;Sí;3;2;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;2;4;3;4;3;4;4;5;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;4;D;8/5/2025;Padres;Propia;No;3;4;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;2;3;4;4;5;4;4;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;No;1;1;4;3;a) Estrategias para manejo de finanzas personales;3;Sí;1;3;1;2;1;2;1;1;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;16;4;D;8/5/2025;Padres;Propia;No;4;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;4;4;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Padres;Propia;Sí;2;3;5;5;b) Habilidades y conocimientos para el dinero;4;Sí;3;2;4;5;3;5;5;4;2;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Padres;Propia;No;3;4;3;5;a) Estrategias para manejo de finanzas personales;4;No;4;3;3;4;2;4;2;3;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;4;D;8/5/2025;Uno de ellos;Propia;Sí;1;4;2;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;2;5;2;5;2;2;2;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Uno de ellos;Propia;Sí;3;3;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;5;5;4;4;2;3;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;Sí;3;3;3;3;a) Estrategias para manejo de finanzas personales;5;No;5;3;3;4;4;3;3;3;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Padres;Propia;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;No;5;3;5;4;4;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Padres;Propia;No;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;5;4;4;4;4;3;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;No;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;4;4;4;4;4;4;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;16;4;D;8/5/2025;Padres;Propia;No;2;1;4;5;a) Estrategias para manejo de finanzas personales;5;No;3;4;4;42;2;5;3;4;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;4;D;8/5/2025;Padres;Rentada;No;3;2;4;4;a) Estrategias para manejo de finanzas personales;5;No;3;4;4;3;2;2;2;2;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;16;4;D;8/5/2025;Padres;Propia;Sí;4;3;3;3;a) Estrategias para manejo de finanzas personales;5;Sí;4;1;5;5;3;5;3;3;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;4;D;8/5/2025;Uno de ellos;Propia;No;2;3;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;3;3;3;4;3;4;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;4;D;8/5/2025;Padres;Propia;No;3;3;4;4;b) Habilidades y conocimientos para el dinero;4;No;1;1;1;3;3;2;3;3;3;Sí;Prometedoras y directas
+Preparatoria;EPRA;Pública;Hombre;19;5;A;7/5/2025;Uno de ellos;Propia;No;5;3;5;5;a) Estrategias para manejo de finanzas personales;5;No;1;1;5;5;1;5;5;5;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;20;5;A;7/5/2025;Padres;Prestada;Sí;4;3;4;5;a) Estrategias para manejo de finanzas personales;5;No;3;5;4;3;3;4;2;2;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;A;7/5/2025;Padres;Prestada;No;1;2;2;5;a) Estrategias para manejo de finanzas personales;5;No;2;3;3;4;3;3;3;2;3;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;18;5;A;7/5/2025;Padres;Propia;Sí;2;3;4;3;d) No sé;5;Sí;3;1;3;1;1;1;1;1;1;No;Sin comentarios
+Preparatoria;EPRA;Pública;Mujer;18;5;A;7/5/2025;Padres;Rentada;No;2;1;1;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;5;5;5;2;3;2;2;5;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;17;5;A;7/5/2025;Padres;Propia;No;4;5;3;5;a) Estrategias para manejo de finanzas personales;5;No;2;4;5;5;5;5;5;5;3;No;Sencillas, con lenguaje cotidiano e informacin
+Preparatoria;EPRA;Pública;Hombre;18;5;A;7/5/2025;Padres;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;5;5;5;4;5;3;3;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;5;A;7/5/2025;Uno de ellos;Propia;No;1;2;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;3;3;1;2;1;2;5;No;Sencillas con lenguaje cotidiano e informacin
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Padres;Rentada;Sí;1;2;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;2;4;5;3;3;4;4;3;5;No;Sencillas con lenguaje cotidiano e informacin
+Preparatoria;EPRA;Pública;Hombre;18;5;A;7/5/2025;Padres;Propia;No;2;1;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;4;5;2;4;2;1;5;Sí;Sencillas con lenguaje cotidiano e informacin
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Padres;Propia;No;1;2;5;4;a) Estrategias para manejo de finanzas personales;3;No;2;2;3;3;1;2;1;1;2;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Padres;Propia;Sí;2;2;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;2;3;5;4;2;3;2;2;3;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;18;5;A;7/5/2025;Padres;Propia;No;3;3;4;4;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;4;4;3;5;4;4;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;5;A;7/5/2025;Padres;Propia;No;2;2;2;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;4;4;2;5;4;3;5;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;17;5;A;7/5/2025;Uno de ellos;Propia;Sí;3;1;2;2;b) Habilidades y conocimientos para el dinero;3;Sí;2;1;2;2;1;2;1;1;3;No;No se
+Preparatoria;EPRA;Pública;Hombre;18;5;A;7/5/2025;Padres;Propia;No;5;3;3;4;b) Habilidades y conocimientos para el dinero;3;Sí;4;2;5;4;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Otro familiar;Rentada;Sí;3;2;4;1;b) Habilidades y conocimientos para el dinero;2;No;3;2;4;3;3;3;3;3;3;No;Buenas
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Uno de ellos;Prestada;No;1;3;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;4;4;5;4;4;4;3;1;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Padres;Propia;No;3;3;4;5;a) Estrategias para manejo de finanzas personales;4;No;3;3;2;3;2;3;3;3;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;19;5;A;7/5/2025;Uno de ellos;Rentada;Sí;3;3;4;4;a) Estrategias para manejo de finanzas personales;4;No;2;5;5;5;1;5;5;5;5;Sí;Sencillas con lenguaje cotidiano e informacin
+Preparatoria;EPRA;Pública;Mujer;17;5;A;7/5/2025;Padres;Propia;No;5;3;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;5;2;3;3;5;4;5;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;5;A;7/5/2025;Otro familiar;Propia;Sí;1;1;3;4;c) Ninguna;2;No;4;1;3;3;2;2;2;2;3;No;No se
+Preparatoria;EPRA;Pública;Hombre;20;5;A;7/5/2025;Padres;Rentada;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;2;3;2;2;1;1;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;A;7/5/2025;Padres;Propia;No;1;2;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;5;2;3;5;2;4;4;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Padres;Propia;Sí;5;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;5;5;5;5;4;3;5;No;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;5;A;7/5/2025;Padres;Propia;No;3;1;3;4;a) Estrategias para manejo de finanzas personales;4;No;3;3;3;5;2;2;3;2;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;19;5;A;7/5/2025;Padres;Propia;No;2;1;3;4;a) Estrategias para manejo de finanzas personales;5;No;2;4;2;3;2;2;3;3;2;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;17;5;A;7/5/2025;Padres;Propia;No;3;3;3;4;b) Habilidades y conocimientos para el dinero;3;No;4;4;3;3;2;3;2;2;3;Sí;No se
+Preparatoria;EPRA;Pública;Hombre;18;5;A;7/5/2025;Padres;Propia;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;4;5;5;3;5;3;3;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Padres;Propia;No;3;1;4;4;b) Habilidades y conocimientos para el dinero;5;No;5;4;5;3;2;4;4;3;5;Sí;Trabajos en equipo
+Preparatoria;EPRA;Pública;Hombre;20;5;A;7/5/2025;Otro familiar;Rentada;Sí;3;2;5;5;a) Estrategias para manejo de finanzas personales;2;Sí;1;3;2;2;2;2;2;1;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;19;5;A;7/5/2025;Padres;Rentada;No;3;3;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;2;5;5;3;5;2;2;4;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;20;5;A;7/5/2025;Padres;Rentada;No;3;3;4;5;b) Habilidades y conocimientos para el dinero;4;No;3;3;4;4;1;3;4;2;2;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;A;7/5/2025;Padres;Propia;Sí;2;1;3;4;b) Habilidades y conocimientos para el dinero;4;No;4;3;1;3;1;2;1;1;1;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;A;7/5/2025;Padres;Propia;Sí;2;2;3;4;b) Habilidades y conocimientos para el dinero;4;No;4;4;4;4;3;3;3;3;3;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Padres;Propia;Sí;1;3;3;5;a) Estrategias para manejo de finanzas personales;4;No;3;1;3;2;1;3;2;3;1;No;Trabajos en equipo
+Preparatoria;EPRA;Pública;Hombre;17;5;A;7/5/2025;Uno de ellos;Rentada;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;4;5;4;5;5;5;3;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;5;A;7/5/2025;Otro familiar;Rentada;No;2;2;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;2;5;3;3;3;2;2;2;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;3;2;2;3;a) Estrategias para manejo de finanzas personales;5;Sí;5;1;4;1;1;1;1;1;1;No;Sin comentarios
+Preparatoria;EPRA;Pública;Mujer;18;5;B;7/5/2025;Padres;Rentada;No;3;1;5;5;b) Habilidades y conocimientos para el dinero;4;No;3;4;5;3;1;4;1;2;5;Sí;No se
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Otro familiar;Rentada;Sí;3;5;4;5;b) Habilidades y conocimientos para el dinero;5;No;5;1;5;5;5;5;5;4;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;Sí;2;2;2;2;d) No sé;4;Sí;3;3;4;3;3;3;3;5;3;Sí;No se
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;No;5;4;5;5;2;5;4;5;1;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;5;B;7/5/2025;Otro familiar;Propia;No;3;2;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;5;5;3;4;3;3;5;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;18;5;B;7/5/2025;Uno de ellos;Propia;No;2;2;3;3;a) Estrategias para manejo de finanzas personales;5;No;4;2;4;4;1;2;4;2;1;No;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;19;5;B;7/5/2025;Padres;Propia;Sí;2;2;3;4;b) Habilidades y conocimientos para el dinero;4;No;5;5;3;3;3;4;3;3;4;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Uno de ellos;Propia;Sí;4;4;4;4;b) Habilidades y conocimientos para el dinero;5;Sí;5;1;5;5;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;2;4;3;3;d) No sé;1;Sí;2;3;2;3;2;3;4;3;2;Sí;No se
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Uno de ellos;Propia;Sí;5;4;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;5;4;4;3;4;5;3;3;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;19;5;B;7/5/2025;Padres;Rentada;No;4;3;4;4;a) Estrategias para manejo de finanzas personales;5;No;3;2;5;5;5;5;4;4;5;No;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Padres;Propia;Sí;5;3;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;3;5;4;2;5;3;3;4;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Padres;Propia;Sí;1;2;4;4;a) Estrategias para manejo de finanzas personales;5;No;2;3;5;5;1;4;5;5;4;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Padres;Propia;No;1;1;3;3;b) Habilidades y conocimientos para el dinero;5;Sí;5;4;5;5;3;5;5;4;5;Sí;No se
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Padres;Propia;No;3;3;3;5;a) Estrategias para manejo de finanzas personales;5;No;5;3;5;5;3;5;3;3;3;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;18;5;B;7/5/2025;Padres;Rentada;No;2;1;2;3;a) Estrategias para manejo de finanzas personales;3;No;2;3;2;3;2;2;2;3;5;No;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;19;5;B;7/5/2025;Padres;Rentada;No;3;3;4;4;a) Estrategias para manejo de finanzas personales;5;No;3;2;5;5;3;2;3;3;3;Sí;Con aprendizaje y oficinas
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Uno de ellos;Prestada;Sí;2;1;2;3;a) Estrategias para manejo de finanzas personales;3;No;2;1;2;2;1;2;1;2;1;Sí;Trabajos en equipo
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;3;1;5;5;b) Habilidades y conocimientos para el dinero;4;Sí;5;5;5;5;3;5;3;4;4;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Padres;Propia;Sí;3;3;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;1;4;3;3;2;3;3;2;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Padres;Propia;Sí;4;5;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;4;3;3;2;4;4;4;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Padres;Propia;Sí;3;3;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;4;4;2;5;4;2;3;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;Sí;2;3;4;4;a) Estrategias para manejo de finanzas personales;5;No;4;4;3;3;2;4;3;2;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Uno de ellos;Propia;Sí;3;3;4;5;a) Estrategias para manejo de finanzas personales;1;No;5;5;4;4;3;5;4;3;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Padres;Rentada;No;5;3;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;2;3;4;5;3;3;3;5;4;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Padres;Propia;Sí;2;2;3;4;d) No sé;3;No;3;4;3;3;2;3;2;2;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Padres;Prestada;Sí;3;4;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;3;4;4;5;5;4;5;No;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Padres;Propia;No;3;1;3;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;5;4;4;1;3;4;4;2;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Uno de ellos;Propia;Sí;4;3;4;4;b) Habilidades y conocimientos para el dinero;5;Sí;4;4;4;4;4;5;4;4;3;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;5;4;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;1;5;5;1;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;Sí;3;3;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;3;5;3;2;3;2;3;1;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;19;5;B;7/5/2025;Padres;Propia;Sí;3;4;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;3;5;5;3;5;3;4;3;No;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;1;2;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;3;3;1;3;3;3;2;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;20;5;B;7/5/2025;Padres;Propia;Sí;2;1;2;3;a) Estrategias para manejo de finanzas personales;5;Sí;3;5;5;5;5;5;3;4;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Padres;Propia;No;1;1;5;5;a) Estrategias para manejo de finanzas personales;5;No;2;4;5;5;1;5;3;3;1;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;B;7/5/2025;Padres;Propia;No;5;3;5;5;b) Habilidades y conocimientos para el dinero;5;No;4;5;5;5;5;5;4;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;4;No;3;1;4;3;2;3;3;2;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Padres;Rentada;No;2;2;5;4;a) Estrategias para manejo de finanzas personales;4;Sí;2;2;5;3;3;4;4;4;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Padres;Rentada;Sí;4;4;5;5;b) Habilidades y conocimientos para el dinero;5;No;3;4;5;5;3;5;2;3;5;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Rentada;Sí;3;3;4;4;a) Estrategias para manejo de finanzas personales;5;No;4;5;5;5;3;4;3;3;4;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;2;2;3;3;b) Habilidades y conocimientos para el dinero;4;Sí;3;3;3;3;2;3;2;3;2;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;;Rentada;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;5;5;5;5;5;4;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;4;2;4;5;d) No sé;5;Sí;3;4;5;5;2;5;3;4;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;B;7/5/2025;Padres;Propia;No;3;2;3;5;a) Estrategias para manejo de finanzas personales;4;No;3;1;2;4;2;4;3;3;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;19;5;B;7/5/2025;Otro familiar;Propia;Sí;4;3;3;5;b) Habilidades y conocimientos para el dinero;4;Sí;2;5;4;5;3;3;4;4;4;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;Sí;2;1;3;3;b) Habilidades y conocimientos para el dinero;4;No;2;3;5;4;2;4;3;2;3;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;17;5;B;7/5/2025;Padres;Propia;No;4;4;3;2;b) Habilidades y conocimientos para el dinero;5;No;2;5;5;5;4;5;4;3;3;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;18;5;D;7/5/2025;Padres;Rentada;Sí;3;2;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;4;4;5;3;5;4;2;4;Sí;Propuestas y metas
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Padres;Propia;No;1;1;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;3;3;3;4;1;3;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Padres;Propia;No;3;3;4;4;b) Habilidades y conocimientos para el dinero;4;No;4;3;4;4;3;3;3;3;3;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Uno de ellos;Propia;Sí;3;1;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;1;5;4;1;2;1;1;3;4;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Padres;Propia;Sí;3;3;2;4;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;4;3;3;2;2;5;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Otro familiar;Propia;Sí;3;3;3;4;d) No sé;5;Sí;4;5;5;4;3;5;2;2;5;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Otro familiar;Propia;No;2;2;3;4;b) Habilidades y conocimientos para el dinero;3;No;2;4;3;3;3;3;2;1;1;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Padres;Propia;No;3;4;5;5;b) Habilidades y conocimientos para el dinero;5;No;3;1;5;5;1;3;3;4;4;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Uno de ellos;Propia;Sí;3;3;4;3;b) Habilidades y conocimientos para el dinero;4;Sí;3;2;3;4;5;2;2;3;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Padres;Propia;Sí;2;4;3;4;b) Habilidades y conocimientos para el dinero;5;No;3;3;3;4;2;5;3;2;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;D;7/5/2025;Padres;Propia;No;3;2;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;1;1;4;4;4;4;3;1;3;No;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Padres;Propia;Sí;3;3;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;3;5;1;5;2;3;1;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;18;5;D;7/5/2025;Padres;Propia;Sí;3;2;2;4;b) Habilidades y conocimientos para el dinero;4;Sí;4;5;3;2;2;3;2;2;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Padres;Propia;Sí;3;2;4;4;a) Estrategias para manejo de finanzas personales;1;Sí;2;3;1;2;2;3;1;1;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Padres;Propia;Sí;4;3;4;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;4;4;4;4;3;4;4;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;D;7/5/2025;Padres;Rentada;No;2;3;2;2;b) Habilidades y conocimientos para el dinero;5;No;1;5;5;3;3;2;3;3;5;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Padres;Propia;No;3;1;4;4;a) Estrategias para manejo de finanzas personales;5;No;3;4;2;4;4;3;1;1;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Padres;Propia;No;3;1;3;3;a) Estrategias para manejo de finanzas personales;5;Sí;5;2;4;3;2;4;2;2;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;5;D;7/5/2025;Padres;Propia;Sí;3;2;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;4;4;5;5;5;3;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Otro familiar;Rentada;No;5;4;5;3;b) Habilidades y conocimientos para el dinero;5;No;4;2;5;5;4;5;4;2;5;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Padres;Propia;No;4;3;3;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;3;4;3;4;5;4;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Padres;Propia;Sí;4;3;3;5;b) Habilidades y conocimientos para el dinero;4;Sí;3;4;2;5;1;3;3;3;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;5;D;7/5/2025;Padres;Propia;No;1;1;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;5;5;1;5;2;1;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;D;7/5/2025;Padres;Propia;Sí;3;2;4;4;b) Habilidades y conocimientos para el dinero;5;Sí;4;3;4;5;4;4;4;4;5;Sí;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Padres;Propia;Sí;3;2;4;3;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;2;4;2;3;3;3;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;5;D;7/5/2025;Padres;Propia;No;4;1;5;5;b) Habilidades y conocimientos para el dinero;5;No;5;5;5;5;1;5;1;1;5;No;Mtodos de ahorro e inversin
+Preparatoria;EPRA;Pública;Mujer;18;5;D;7/5/2025;Uno de ellos;Propia;Sí;3;1;1;1;a) Estrategias para manejo de finanzas personales;4;No;1;5;1;5;1;1;5;1;1;Sí;Con propuestas
+Preparatoria;EPRA;Pública;Hombre;17;5;D;7/5/2025;Padres;Rentada;Sí;1;2;3;4;a) Estrategias para manejo de finanzas personales;3;No;3;4;5;4;4;3;4;4;2;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Uno de ellos;Propia;No;3;4;3;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;4;5;2;5;3;4;5;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Rentada;No;2;1;1;1;a) Estrategias para manejo de finanzas personales;1;Sí;5;3;4;3;5;4;4;4;1;Sí;Practicas, con formularios, aplicadas e investigaciones
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Propia;No;3;3;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;5;2;5;5;5;2;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Hombre;17;6;B;7/5/2025;Padres;Propia;No;5;4;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;3;5;5;5;5;5;5;5;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;No;3;3;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;4;4;3;4;2;2;1;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;17;6;B;7/5/2025;Padres;Rentada;No;4;4;5;5;a) Estrategias para manejo de finanzas personales;4;No;4;4;4;5;3;3;3;3;4;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Hombre;17;6;B;7/5/2025;Padres;Propia;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;2;5;5;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;6;B;7/5/2025;Padres;Propia;No;2;3;4;4;a) Estrategias para manejo de finanzas personales;4;No;3;2;4;4;3;3;3;4;4;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;6;B;7/5/2025;Padres;Propia;No;2;1;3;4;b) Habilidades y conocimientos para el dinero;5;Sí;4;3;2;5;4;5;5;3;4;Sí;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;No;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;5;5;5;5;5;5;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;18;6;B;7/5/2025;Padres;Propia;Sí;5;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;5;5;4;4;3;4;3;3;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Propia;Sí;4;3;5;4;a) Estrategias para manejo de finanzas personales;4;Sí;2;4;5;5;3;5;3;4;2;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Propia;No;4;4;4;5;a) Estrategias para manejo de finanzas personales;5;No;4;5;5;5;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;16;6;B;7/5/2025;Uno de ellos;Propia;Sí;5;3;4;5;b) Habilidades y conocimientos para el dinero;5;Sí;4;4;5;5;3;5;5;5;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;3;5;4;2;5;5;5;2;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Propia;Sí;3;4;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;5;5;5;5;3;5;3;3;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;No;3;2;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;1;5;1;4;5;4;5;4;3;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;6;B;7/5/2025;Uno de ellos;Rentada;Sí;5;4;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;2;4;4;3;4;4;4;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;3;5;2;5;5;3;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;6;B;7/5/2025;Padres;Propia;No;5;4;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;5;4;5;3;4;4;4;4;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;3;Sí;3;4;3;4;2;3;3;2;2;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Propia;Sí;3;3;4;2;b) Habilidades y conocimientos para el dinero;3;No;2;5;2;3;3;3;2;3;5;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Rentada;No;3;2;4;3;a) Estrategias para manejo de finanzas personales;3;No;2;2;2;4;3;3;4;3;2;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;Sí;3;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;2;5;5;5;5;4;5;4;Sí;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;Sí;4;5;5;5;a) Estrategias para manejo de finanzas personales;5;No;1;4;5;5;1;5;1;1;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;No;3;2;2;3;a) Estrategias para manejo de finanzas personales;5;Sí;4;4;3;4;2;2;3;2;3;No;Divertidas, entretenidas e interesantes
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;2;4;3;5;2;4;2;1;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Uno de ellos;Propia;No;5;2;5;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;4;2;3;3;3;3;3;2;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;18;6;B;7/5/2025;Padres;Prestada;No;4;3;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;5;5;5;5;5;5;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;Sí;2;2;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;4;4;3;3;2;3;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Uno de ellos;Propia;No;3;2;3;3;a) Estrategias para manejo de finanzas personales;4;Sí;2;3;3;2;1;2;1;1;3;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Propia;No;3;2;5;5;b) Habilidades y conocimientos para el dinero;3;Sí;3;5;5;5;5;5;5;5;5;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Padres;Propia;Sí;3;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;4;4;4;3;4;4;4;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;No;3;2;4;3;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;4;4;4;5;4;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;6;B;7/5/2025;Uno de ellos;Propia;Sí;4;4;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;2;3;4;4;4;3;3;3;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Uno de ellos;Propia;No;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;3;5;4;5;5;5;4;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Padres;Propia;No;3;2;3;4;a) Estrategias para manejo de finanzas personales;5;Sí;4;3;4;5;3;5;4;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;6;B;7/5/2025;Padres;Propia;No;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;3;5;4;4;4;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;6;B;7/5/2025;Padres;Propia;Sí;4;5;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;4;4;5;4;5;4;5;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;6;B;7/5/2025;Uno de ellos;Propia;No;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;2;3;5;4;5;3;3;1;Sí;Clases Interactivas
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Propia;No;5;5;3;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;5;5;5;5;5;5;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Uno de ellos;Propia;No;3;2;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;5;3;3;3;2;3;2;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Propia;No;3;2;4;5;a) Estrategias para manejo de finanzas personales;5;No;2;3;3;3;2;3;4;2;4;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Padres;Propia;No;3;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;4;4;4;3;4;4;4;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Padres;Propia;Sí;4;3;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;5;5;4;5;4;4;4;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;18;6;C;7/5/2025;Padres;Propia;No;2;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;4;4;4;3;4;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;6;C;7/5/2025;Padres;Propia;Sí;3;4;1;1;a) Estrategias para manejo de finanzas personales;3;No;2;3;3;4;4;3;2;2;2;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;6;C;7/5/2025;Padres;Propia;Sí;1;1;1;1;a) Estrategias para manejo de finanzas personales;1;No;1;1;1;5;4;5;4;3;5;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;6;C;7/5/2025;Padres;Propia;Sí;3;4;5;5;a) Estrategias para manejo de finanzas personales;5;No;5;4;5;4;5;5;3;4;5;No;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Padres;Propia;No;1;1;4;4;b) Habilidades y conocimientos para el dinero;5;No;4;3;5;5;5;5;5;5;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;6;C;7/5/2025;Padres;Propia;No;4;3;5;5;a) Estrategias para manejo de finanzas personales;5;No;4;3;2;3;3;4;4;1;4;No;Exposiciones, ejemplos y practicas
+Preparatoria;EPRA;Pública;Hombre;17;6;C;7/5/2025;Padres;Propia;No;3;3;4;4;a) Estrategias para manejo de finanzas personales;5;Sí;5;3;3;4;4;4;5;5;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;19;6;C;7/5/2025;Padres;Propia;Sí;5;3;2;3;d) No sé;5;Sí;3;3;5;5;3;4;3;2;5;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Propia;No;3;3;4;5;a) Estrategias para manejo de finanzas personales;3;No;3;3;2;3;2;3;3;4;2;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Rentada;No;2;2;1;3;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;5;5;4;5;5;5;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Padres;Propia;No;2;2;4;5;a) Estrategias para manejo de finanzas personales;5;No;3;3;3;4;3;3;4;2;2;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Uno de ellos;Propia;No;3;2;3;4;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;3;4;2;4;3;4;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;6;C;7/5/2025;Padres;Propia;Sí;5;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;5;4;5;5;5;5;5;5;5;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;17;6;C;7/5/2025;Padres;Propia;Sí;5;1;3;5;b) Habilidades y conocimientos para el dinero;3;No;5;3;5;5;5;4;4;5;1;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Propia;Sí;2;3;1;3;a) Estrategias para manejo de finanzas personales;4;Sí;4;3;3;4;3;5;3;3;2;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Padres;Propia;Sí;5;4;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;3;5;5;4;4;3;4;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Padres;Propia;No;2;1;3;5;a) Estrategias para manejo de finanzas personales;4;No;3;3;3;3;2;4;2;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Rentada;Sí;4;4;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;3;4;4;2;5;4;4;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;6;C;7/5/2025;Padres;Propia;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;4;3;3;4;3;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Hombre;17;6;C;7/5/2025;Padres;Propia;Sí;3;3;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;2;5;5;5;3;5;3;4;3;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;17;6;C;7/5/2025;Padres;Propia;Sí;3;2;2;5;b) Habilidades y conocimientos para el dinero;5;Sí;3;5;5;5;3;5;4;3;3;Sí;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Uno de ellos;Rentada;Sí;5;4;4;5;a) Estrategias para manejo de finanzas personales;4;Sí;4;4;5;5;4;5;5;4;3;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Padres;Rentada;Sí;3;3;2;1;a) Estrategias para manejo de finanzas personales;1;No;2;1;3;2;3;1;3;3;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Uno de ellos;Propia;No;3;4;4;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;4;5;3;4;4;3;1;Sí;Materia extra y funcional
+Preparatoria;EPRA;Pública;Hombre;18;6;C;7/5/2025;Padres;Propia;No;3;3;2;4;a) Estrategias para manejo de finanzas personales;4;Sí;5;4;3;4;2;3;3;3;2;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Prestada;Sí;3;5;3;5;a) Estrategias para manejo de finanzas personales;5;No;4;2;5;5;4;4;4;4;5;Sí;Practicas, con formularios, aplicadas e investigaciones
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Propia;No;3;4;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;2;3;4;4;3;3;4;3;5;Sí;Practicas, con formularios, aplicadas e investigaciones
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Propia;No;3;2;4;3;b) Habilidades y conocimientos para el dinero;4;No;3;2;4;4;4;5;4;4;5;No;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;18;6;C;7/5/2025;Uno de ellos;Propia;Sí;3;4;5;5;a) Estrategias para manejo de finanzas personales;4;No;4;4;3;4;4;4;4;4;3;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Hombre;18;6;C;7/5/2025;Padres;Propia;Sí;4;4;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;4;5;4;5;3;5;5;5;4;Sí;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Mujer;17;6;C;7/5/2025;Padres;Propia;No;3;3;5;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;5;4;5;4;4;3;2;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Padres;Propia;No;3;1;5;5;a) Estrategias para manejo de finanzas personales;5;No;3;4;5;5;4;5;5;5;5;Sí;Claras, verstiles, objetivas y didcticas
+Preparatoria;EPRA;Pública;Mujer;18;6;C;7/5/2025;Otro familiar;Prestada;Sí;5;5;5;5;a) Estrategias para manejo de finanzas personales;5;Sí;3;1;3;5;4;5;5;5;3;No;Explicacin, estrategias y actividades
+Preparatoria;EPRA;Pública;Hombre;18;6;C;7/5/2025;Padres;Propia;Sí;4;5;3;5;a) Estrategias para manejo de finanzas personales;4;Sí;3;3;4;5;3;5;4;4;5;No;Expertos en el tema, dinmicas y simulaciones
+Preparatoria;EPRA;Pública;Hombre;18;6;C;7/5/2025;Padres;Propia;No;4;5;5;5;a) Estrategias para manejo de finanzas personales;5;No;2;5;3;5;3;4;4;3;5;No;Talleres, cursos y tutoriales
