@@ -1,12 +1,12 @@
-**  **
+****
 
-**CENTRO UNIVERSITARIO DE LA COSTA SUR    **
+**CENTRO UNIVERSITARIO DE LA COSTA SUR**
 
-**DIVISIÓN DE ESTUDIOS ECONÓMICOS ADMINISTRATIVOS **
+**DIVISIÓN DE ESTUDIOS ECONÓMICOS ADMINISTRATIVOS**
 
-**DEPARTAMENTO DE CONTADURÍA   **
+**DEPARTAMENTO DE CONTADURÍA**
 
-**  **
+****
 
 ![](media/image1.png){width="1.0298611111111111in"
 height="1.4180555555555556in"}
@@ -21,7 +21,7 @@ SECUNDARIA Y BACHILLERATO EN AUTLÁN DE NAVARRO, JALISCO, MEXICO.**
 **Como Requisito Parcial Para Obtener el Grado de Maestro en Finanzas
 Para el Desarrollo Sostenible.**
 
-**AUTLÁN DE NAVARRO, JALISCO **
+**AUTLÁN DE NAVARRO, JALISCO**
 
 **Julio 2026**
 
@@ -98,7 +98,7 @@ Código PONER
 
 **TABLA DE CONTENIDO**
 
-#  {#section .TOC-Heading}
+# {#section .TOC-Heading}
 
 [PROYECTO. [1](#proyecto.)](#proyecto.)
 
@@ -209,11 +209,11 @@ en el desarrollo social.
 
 [ANEXOS [54](#anexos)](#anexos)
 
-# PROYECTO.
+# PROYECTO
 
-# Título del proyecto: Estudio de la educación financiera en adolescentes. Caso escuelas de secundaria y bachillerato en Autlán de Navarro, Jalisco, México.
+# Título del proyecto: Estudio de la educación financiera en adolescentes. Caso escuelas de secundaria y bachillerato en Autlán de Navarro, Jalisco, México
 
-## Línea de Generación y Aplicación del Conocimiento: BUSCAR EN DISEÑO DE MAESTRÍA 
+## Línea de Generación y Aplicación del Conocimiento: BUSCAR EN DISEÑO DE MAESTRÍA
 
 **TITULO: ESTUDIO DE LA EDUCACIÓN FINANCIERA EN ADOLESCENTES. CASO
 ESCUELAS DE SECUNDARIA Y BACHILLERATO EN AUTLÁN DE NAVARRO, JALISCO,
@@ -221,7 +221,7 @@ MEXICO**
 
 **SUSTENTANTE: LIC. GERMÁN GERVACIO BARBARIN.**
 
-# RESUMEN.
+# RESUMEN
 
 los objetivos, los métodos, los análisis realizados, y se expliquen los
 resultados obtenidos, incluyendo las conclusiones más importantes
@@ -320,7 +320,7 @@ inadecuadas y promover una cultura de responsabilidad económica.
 
 # CAPÍTULO I. PROPÓSITO Y ORGANIZACIÓN
 
-1.  []{#_Toc231036608 .anchor}**Descripción del problema.**
+1. []{#_Toc231036608 .anchor}**Descripción del problema.**
 
 La educación financiera constituye una competencia relevante para la
 vida social y económica contemporánea, pues permite a las personas
@@ -384,7 +384,7 @@ financiera en adolescentes mexicanos resulta pertinente para aportar
 evidencia que contribuya al diseño de estrategias educativas
 contextualizadas, preventivas e inclusivas.
 
-## Antecedentes.
+## Antecedentes
 
 La educación financiera ha adquirido creciente relevancia en la agenda
 internacional debido a la complejidad de los mercados, la digitalización
@@ -488,7 +488,7 @@ aportar evidencia empírica, identificar necesidades formativas
 específicas y contribuir al diseño de estrategias educativas que
 respondan a la realidad del municipio.
 
-3.  []{#_Toc231036615 .anchor}**Justificación**
+1. []{#_Toc231036615 .anchor}**Justificación**
 
 La educación financiera en adolescentes de escuelas secundarias y
 bachilleratos del municipio de Autlán de Navarro, Jalisco se justifica
@@ -554,7 +554,7 @@ problema poco explorado en el ámbito local y vinculado directamente con
 el bienestar financiero futuro de los adolescentes, sus familias y la
 comunidad de Autlán de Navarro.
 
-4.  []{#_Toc231036621 .anchor}**Beneficiarios y vinculación.**
+1. []{#_Toc231036621 .anchor}**Beneficiarios y vinculación.**
 
 Se reconocen como beneficiarios de este estudio:
 
@@ -579,7 +579,7 @@ bienestar financiero, la prevención de riesgos económicos y la formación
 de ciudadanos más responsables, críticos y preparados para tomar
 decisiones económicas informadas.
 
-1.  []{#_Toc231036622 .anchor}**Valor agregado.**
+1. []{#_Toc231036622 .anchor}**Valor agregado.**
 
 El estudio aporta valor agregado en nueve dimensiones. A continuación,
 se muestran por cada dimensión identificada:
@@ -662,7 +662,7 @@ diagnostica el nivel de educación financiera de los adolescentes, sino
 que también aportará bases para una intervención educativa, social e
 institucional contextualizada en Autlán de Navarro, Jalisco.
 
-2.  []{#_Toc231036623 .anchor}**Objetivos.**
+1. []{#_Toc231036623 .anchor}**Objetivos.**
 
 ### Objetivo General
 
@@ -683,15 +683,15 @@ Jalisco.
 
 ## Preguntas de investigación
 
-1.  ¿Cuál es el grado de educación financiera en los estudiantes de
+1. ¿Cuál es el grado de educación financiera en los estudiantes de
     instrucción secundaria y bachillerato en el municipio de Autlán de
     Navarro, Jalisco, México?
 
-2.  ¿Hay diferencias en el nivel de educación financiera que poseen los
+2. ¿Hay diferencias en el nivel de educación financiera que poseen los
     adolescentes que se encuentran cursando la instrucción secundaria y
     bachillerato en el municipio de Autlán de Navarro, Jalisco?
 
-    8.  []{#_Toc231036627 .anchor}**Hipótesis**
+    1. []{#_Toc231036627 .anchor}**Hipótesis**
 
 **Hipótesis general**
 
@@ -717,7 +717,7 @@ decisiones económicas cotidianas.**\**
 
 # CAPÍTULO II: MARCO TEÓRICO
 
-## Educación Financiera. Tratamiento del término.
+## Educación Financiera. Tratamiento del término
 
 La educación financiera ha sido conceptualizada en la literatura
 científica reciente como un proceso formativo multidimensional que
@@ -1001,7 +1001,7 @@ protección del usuario, inclusión financiera y salud financiera,
 dimensiones promovidas por instituciones públicas como CONDUSEF, INEGI,
 Banco de México y Banco del Bienestar.
 
-## Educación Financiera. Estudios internacionales y nacionales.
+## Educación Financiera. Estudios internacionales y nacionales
 
 La educación financiera se ha consolidado como un campo de estudio de
 alta relevancia académica, social y educativa, debido a que las
@@ -1032,7 +1032,7 @@ muestran importantes estudios internacionales realizados en el tema.
 
   ------------------------------------------------------------------------------
   **Título de la   **Autores**   **Año**   **Principales aportaciones**
-  publicación**                            
+  publicación**
   ---------------- ------------- --------- -------------------------------------
   Financial        Lusardi       2019      Argumenta que la alfabetización
   literacy and the                         financiera es indispensable para
@@ -1054,14 +1054,14 @@ muestran importantes estudios internacionales realizados en el tema.
   level of                                 las experiencias con dinero y el
   financial                                contexto socioeconómico en la
   literacy among                           alfabetización financiera juvenil.
-  young people                             
+  young people
 
   Youth, money,    Mancone et    2024      Revisa programas dirigidos a niños y
   and behavior:    al.                     adolescentes; resalta el aprendizaje
   The impact of                            experiencial, la participación
   financial                                familiar y el uso de herramientas
   literacy                                 digitales.
-  programs                                 
+  programs
 
   Assessing        Oberrauch,    2024      Analiza la medición de la
   financial        Kaiser y                alfabetización financiera en jóvenes
@@ -1069,12 +1069,12 @@ muestran importantes estudios internacionales realizados en el tema.
   the young                                comparativas como PISA para
                                            identificar brechas educativas.
 
-  PISA 2022        OECD          2024      Presenta evidencia internacional
+PISA 2022        OECD          2024      Presenta evidencia internacional
   Results (Volume                          sobre competencia financiera en
   IV): How                                 estudiantes de 15 años, mostrando
   financially                              diferencias asociadas al nivel
   smart are                                socioeconómico y experiencias
-  students?                                financieras.
+  students?                                financieras
   ------------------------------------------------------------------------------
 
 Nota: Elaboración propia a partir de los autores consultados
@@ -1152,7 +1152,7 @@ realizados sobre educación financiera en el contexto nacional.
 
   ------------------------------------------------------------------------------
   **Título de la    **Autores**   **Año**   **Principales aportaciones**
-  publicación**                             
+  publicación**
   ----------------- ------------- --------- ------------------------------------
   Financial         Arceo y       2017      Estudia adolescentes mexicanos de
   literacy among    Villagómez              educación media superior; identifica
@@ -1171,32 +1171,32 @@ realizados sobre educación financiera en el contexto nacional.
   jóvenes                                   destaca la influencia de factores
   universitarios en                         socioeconómicos y psicológicos en
   seis entidades                            jóvenes universitarios.
-  federativas de                            
-  México                                    
+  federativas de
+  México
 
   Factores que      Merino        2023      Analiza jóvenes de 15 a 18 años;
   influyen en la    González                identifica influencia del nivel
   educación                                 educativo materno y de variables
   financiera de                             familiares en la educación
   jóvenes de la                             financiera.
-  generación Z en                           
-  Celaya,                                   
-  Guanajuato,                               
-  México                                    
+  generación Z en
+  Celaya,
+  Guanajuato,
+  México
 
   La importancia de García        2024      Destaca la necesidad de formar a
   la educación                              jóvenes universitarios en previsión,
   financiera en los                         ahorro y retiro, mostrando la escasa
   jóvenes                                   cultura financiera de largo plazo.
-  universitarios                            
-  frente al retiro                          
-  por vejez                                 
+  universitarios
+  frente al retiro
+  por vejez
 
-  Educación         INEGI         2023      Aporta evidencia sobre salud
+Educación         INEGI         2023      Aporta evidencia sobre salud
   financiera y                              financiera, estrés financiero y
   bienestar                                 capacidad de enfrentar gastos
   financiero en                             imprevistos en población mexicana
-  México                                    adulta.
+  México                                    adulta
   ------------------------------------------------------------------------------
 
 Nota: Elaboración propia a partir de los autores consultados
@@ -1397,7 +1397,7 @@ económicas responsables. En síntesis, la educación financiera debe
 asumirse como una competencia para la vida y como una herramienta de
 inclusión, prevención y bienestar en el contexto mexicano contemporáneo.
 
-## La Educación Financiera en la regulaciones internacionales y nacionales.
+## La Educación Financiera en la regulaciones internacionales y nacionales
 
 La educación financiera ha dejado de ser un asunto exclusivamente
 pedagógico para convertirse en un componente relevante de las políticas
@@ -1511,7 +1511,7 @@ instrumentos internacionales y nacionales sobre educación financiera.
   **Nivel**       **Nombre de la   **Año**   **Organismo   **Principales
                   resolución,                emisor**      contribuciones o
                   norma o                                  características**
-                  instrumento**                            
+                  instrumento**
   --------------- ---------------- --------- ------------- --------------------------
   Internacional   Recomendación    2020      OCDE          Instrumento global que
                   del Consejo                              orienta a gobiernos y
@@ -1551,7 +1551,7 @@ instrumentos internacionales y nacionales sobre educación financiera.
                   Defensa al                 CONDUSEF      protección, defensa y
                   Usuario de                               educación de los usuarios
                   Servicios                                de servicios financieros.
-                  Financieros                              
+                  Financieros
 
   Nacional México Política         2020      CONAIF y      Integra inclusión y
                   Nacional de                Comité de     educación financiera como
@@ -1570,13 +1570,13 @@ instrumentos internacionales y nacionales sobre educación financiera.
                                                            servicios financieros
                                                            tecnológicos.
 
-  Nacional México Encuesta         2023      INEGI         Proporciona información
+Nacional México Encuesta         2023      INEGI         Proporciona información
                   Nacional sobre                           oficial sobre bienestar
                   Salud Financiera                         financiero, estrés
                                                            financiero, capacidad de
                                                            enfrentar gastos
                                                            imprevistos y planeación
-                                                           económica.
+                                                           económica
   -----------------------------------------------------------------------------------
 
 Nota: Elaboración propia a partir de los autores consultados
@@ -1660,7 +1660,7 @@ que la educación financiera contribuya realmente a la inclusión, la
 protección del usuario, la prevención del sobreendeudamiento y el
 bienestar financiero de la población.
 
-## Variables de la Educación Financiera. 
+## Variables de la Educación Financiera
 
 En los diagnósticos sobre educación financiera, las variables más
 utilizadas se han estructurado, de manera recurrente, alrededor de tres
@@ -1759,7 +1759,7 @@ conceptual permite generar información útil para escuelas, familias,
 autoridades educativas y actores locales interesados en promover una
 cultura financiera temprana en el municipio.
 
-## 2.5. La Educación Financiera en México y Jalisco. Situación actual, retos y perspectivas.
+## 2.5. La Educación Financiera en México y Jalisco. Situación actual, retos y perspectivas
 
 La educación financiera constituye una competencia estratégica para el
 desarrollo social y económico, debido a que permite a las personas
@@ -1878,9 +1878,9 @@ financiera desde edades tempranas no solo contribuirá al manejo
 responsable del dinero, sino también a la formación de ciudadanos con
 mayor autonomía, capacidad crítica y bienestar económico.
 
-# CAPÍTULO III. METODOLOGÍA. 
+# CAPÍTULO III. METODOLOGÍA
 
-## 3.1. Diseño de investigación. 
+## 3.1. Diseño de investigación
 
 La investigación se concibe bajo un diseño no experimental, transversal
 y de campo, debido a que las variables se observan en su contexto
@@ -1917,7 +1917,7 @@ comprende la alfabetización financiera como combinación de
 conocimientos, actitudes y comportamientos necesarios para tomar
 decisiones financieras adecuadas (OECD, 2020).
 
-## 3.2. Diseño del instrumento.
+## 3.2. Diseño del instrumento
 
 El instrumento utilizado es una encuesta tipo cuestionario dirigida a
 estudiantes de secundaria y bachillerato. Su objetivo es identificar el
@@ -1999,7 +1999,7 @@ correctamente la opción que elegiste.
 
 2- Muy poco, Casi nunca, malo
 
-1.  No, nunca, muy malo o muy mal
+1. No, nunca, muy malo o muy mal
 
 **Escala Dicotómica:** Las opciones de respuesta son:
 
@@ -2225,7 +2225,7 @@ financiera?
 > En total el cuestionario contiene: 14 ítems Likert, 2 ítems
 > dicotómicos, 1 opción múltiple y 1 pregunta abierta.
 
-##  3.4. Población y muestra.
+## 3.4. Población y muestra
 
 La población objeto de estudio está integrada por estudiantes de
 secundaria y bachillerato del municipio de Autlán de Navarro, Jalisco.
@@ -2260,13 +2260,13 @@ En la Tabla 5 se muestra la determinación del tamaño de la muestra:
 
   ----------------------------------------------------------------------------------
   **Nivel        **Población   **Confianza**   **Error**   **p**       **Muestra**
-  educativo**    (N)**                                                 
+  educativo**    (N)**
   -------------- ------------- --------------- ----------- ----------- -------------
   Bachillerato   2,339         95 %            5 %         0.5         331
 
   Secundaria     3,330         95 %            5 %         0.5         345
 
-  **Total**                                                            **676**
+**Total**                                                            **676**
   ----------------------------------------------------------------------------------
 
 A continuación, se refleja la muestra por institución educativa dentro
@@ -2294,7 +2294,7 @@ tanto, serian en total 20 escuelas de nivel Secundaria.
   4         ESCUELA SECUNDARIA TÉCNICA 7         509         15%            53
 
   5         ESCUELA SECUNDARIA TÉCNICA 84        99          3%             10
-            (CHANTE)                                                        
+            (CHANTE)
 
   6         FRANCISCO NAVARRO MAYTORENA          62          2%             6
 
@@ -2319,7 +2319,7 @@ tanto, serian en total 20 escuelas de nivel Secundaria.
   16        FRANCISCO I. MADERO (LA YERBABUENA)  18          1%             2
 
   17        LÁZARO CÁRDENAS DEL RÍO (AGUA        12          0%             1
-            HEDIONDA)                                                       
+            HEDIONDA)
 
   18        J. JESÚS VELÁZQUEZ GÓMEZ (TECOS)     337         10%            35
 
@@ -2362,7 +2362,7 @@ bachillerato.*
 
   BT             UNIVAG COL IPEVI      70            3%             10
 
-  **TOTAL**                            **2339**      **100%**       **331**
+**TOTAL**                            **2339**      **100%**       **331**
   --------------------------------------------------------------------------------
 
 ### Muestra real obtenida
@@ -2377,18 +2377,18 @@ estudiantes que se muestra en la Tabla 8.
 
   ------------------------------------------------------------------------------
   **Nivel**                        **Muestra       **Muestra    **Diferencia**
-                                   teórica**       real**       
+                                   teórica**       real**
   -------------------------------- --------------- ------------ ----------------
   Bachillerato (Preparatoria)      331             337          +6
 
   Secundaria (general +            345             319          -26
-  telesecundaria)                                               
+  telesecundaria)
 
   └ Telesecundaria (sub-grupo)     ---             95           ---
 
   └ Secundaria general (sub-grupo) ---             224          ---
 
-  **Total**                        **676**         **656**      **-20**
+**Total**                        **676**         **656**      **-20**
   ------------------------------------------------------------------------------
 
 La diferencia de 20 registros respecto a la muestra teórica se debe
@@ -2410,7 +2410,7 @@ escalas ordinales tipo Likert. Estos resultados permitirán identificar
 la respuesta predominante en cada pregunta y valorar el nivel de dominio
 o percepción de los estudiantes.
 
-## 3.5. Análisis estadísticos y prueba de hipótesis.
+## 3.5. Análisis estadísticos y prueba de hipótesis
 
 El análisis estadístico se desarrolla en varias etapas. Primero se
 realiza un análisis descriptivo mediante frecuencias, porcentajes y moda
@@ -2434,7 +2434,7 @@ esperable que los estudiantes de bachillerato presenten mayor nivel de
 educación financiera. Se realiza la Prueba de Hipótesis U de
 Mann-Whitney.
 
-6.  []{#_Toc231036640 .anchor}**Propuesta de estrategia educativa de
+1. []{#_Toc231036640 .anchor}**Propuesta de estrategia educativa de
     educación financiera.**
 
 Con base en los resultados del diagnóstico se diseña una propuesta de
@@ -2452,11 +2452,11 @@ y contextualizado.
 Se propone una estructura de la estrategia en los siguientes
 componentes:
 
-1.  Diagnóstico y caracterización de la población objetivo.
+1. Diagnóstico y caracterización de la población objetivo.
 
-2.  Objetivo general de la estrategia.
+2. Objetivo general de la estrategia.
 
-3.  Plan de acciones que contemple:
+3. Plan de acciones que contemple:
 
 - Formación de habilidades para la toma de decisiones financieras.
 
@@ -2469,9 +2469,9 @@ componentes:
 
 - Educación para la inclusión financiera y la ciudadanía económica.
 
-4.  Evaluación y seguimiento
+1. Evaluación y seguimiento
 
-## Consideraciones éticas y limitaciones del estudio.
+## Consideraciones éticas y limitaciones del estudio
 
 La investigación se realizó siguiendo principios éticos básicos de
 investigación con seres humanos:
@@ -2493,22 +2493,22 @@ investigación con seres humanos:
 El estudio presenta las siguientes limitaciones, que deben considerarse
 al interpretar los resultados:
 
-1.  **Muestra efectiva ligeramente menor que la teórica**: se obtuvieron
+1. **Muestra efectiva ligeramente menor que la teórica**: se obtuvieron
     656 cuestionarios válidos frente a los 676 planeados, principalmente
     por formularios en blanco.
-2.  **Alcance descriptivo-comparativo**: el diseño no permite inferir
+2. **Alcance descriptivo-comparativo**: el diseño no permite inferir
     relaciones causales entre nivel educativo y educación financiera,
     solo describe y compara los grupos.
-3.  **Auto-reporte**: la información proviene de lo que los estudiantes
+3. **Auto-reporte**: la información proviene de lo que los estudiantes
     declaran, por lo que es susceptible a sesgo de deseabilidad social o
     de desconocimiento de los propios hábitos.
-4.  **Diseño transversal**: la medición se realizó en un único momento,
+4. **Diseño transversal**: la medición se realizó en un único momento,
     por lo que no se capturan cambios ni evolución temporal en los
     niveles de educación financiera.
 
-# CAPÍTULO IV. RESULTADOS. 
+# CAPÍTULO IV. RESULTADOS
 
-## Resultados del procesamiento de la encuesta.
+## Resultados del procesamiento de la encuesta
 
 **Caracterización de la muestra**
 
@@ -2584,9 +2584,9 @@ por las tres dimensiones estudiadas.
 | > P08 - Es constante y responsable al ahorrar             | > 3,00   |
 +-----------------------------------------------------------+----------+
 
-## Pruebas estadísticas y de hipótesis. 
+## Pruebas estadísticas y de hipótesis
 
-## Consistencia interna --- Alfa de Cronbach.
+## Consistencia interna --- Alfa de Cronbach
 
 Se calcularon tres coeficientes α de Cronbach para evaluar la
 consistencia interna de los ítems Likert: (a) escala global de 14 ítems
@@ -2601,14 +2601,14 @@ umbral mínimo aceptable para investigación en ciencias sociales.
 
   ------------------------------------------------------------------------------
   **Escala**                       **Ítems   **α de         **Interpretación**
-                                   (k)**     Cronbach**     
+                                   (k)**     Cronbach**
   -------------------------------- --------- -------------- --------------------
   Global (todos los Likert)        14        0,849          Bueno
 
   Conocimiento financiero          8         0,835          Bueno
 
-  Actitud hacia la educación       4         0,747          Aceptable
-  financiera                                                
+Actitud hacia la educación       4         0,747          Aceptable
+  financiera
   ------------------------------------------------------------------------------
 
 El α global de 0,849 indica que la escala Likert en su conjunto es
@@ -2632,7 +2632,7 @@ naturaleza actitudinal-opinable, y se mantuvo en la escala global.
 
   gl                                 13                13
 
-  Sig. asintótica (bilateral)        \< ,001           \< ,001
+Sig. asintótica (bilateral)        \< ,001           \< ,001
   -----------------------------------------------------------------------
 
 En ambos niveles, la hipótesis nula de distribuciones homogéneas en los
@@ -2674,13 +2674,13 @@ comportamientos prácticos de educación financiera se adquieren
 principalmente en el entorno familiar y son relativamente independientes
 de la escolaridad formal.
 
-## 4.3. Implicaciones para el diseño de programas de educación financiera.
+## 4.3. Implicaciones para el diseño de programas de educación financiera
 
 Los resultados del estudio sustentan las siguientes recomendaciones para
 el diseño instruccional de programas de educación financiera dirigidos a
 adolescentes de Autlán de Navarro:
 
-1)  **Diferenciación por nivel educativo**: el currículo debe ajustarse
+1) **Diferenciación por nivel educativo**: el currículo debe ajustarse
     al nivel de conocimiento previo. En secundaria, priorizar la
     introducción a conceptos fundamentales (crédito, presupuesto, tasa
     de interés), que mostraron las brechas más amplias. En bachillerato,
@@ -2688,7 +2688,7 @@ adolescentes de Autlán de Navarro:
     inflación, devaluación, diferenciación tarjeta de crédito/débito),
     aprovechando el mayor conocimiento base.
 
-2)  **Formato pedagógico**: el 45,1 % de los estudiantes prefiere
+2) **Formato pedagógico**: el 45,1 % de los estudiantes prefiere
     "explicaciones claras", un hallazgo estable en ambos niveles pero
     con énfasis diferenciado. En secundaria, las preferencias se
     concentran en formatos prácticos y aplicados; en bachillerato, la
@@ -2697,33 +2697,33 @@ adolescentes de Autlán de Navarro:
     complementada con actividades prácticas, casos contextualizados y
     simulación con expertos.
 
-3)  **Aprovechamiento de la actitud favorable**: dado que la importancia
+3) **Aprovechamiento de la actitud favorable**: dado que la importancia
     atribuida a la educación financiera es transversal, sin diferencias
     por nivel, existe un clima propicio para la implementación. Los
     cursos pueden legitimarse apelando a la demanda explícita de los
     estudiantes.
 
-4)  **Trabajo con familias**: la dimensión conductual, independiente del
+4) **Trabajo con familias**: la dimensión conductual, independiente del
     nivel escolar, sugiere que los esfuerzos por fortalecer prácticas de
     ahorro, registro de gastos y autonomía financiera deben extenderse
     al entorno familiar. Se recomiendan talleres para padres y
     materiales de extensión domiciliaria.
 
-5)  **Diseño instruccional basado en evidencia**: Los contenidos deben
+5) **Diseño instruccional basado en evidencia**: Los contenidos deben
     ilustrarse con casos prácticos y utilización de plataformas de
     instituciones financieras que motiven al estudiante.
 
-# CAPÍTULO V. ANÁLISIS Y DISCUSIÓN DE RESULTADOS. 
+# CAPÍTULO V. ANÁLISIS Y DISCUSIÓN DE RESULTADOS
 
-## 5.1. Principales diferencias entre estudiantes de secundaria y bachillerato en educación financiera. 
+## 5.1. Principales diferencias entre estudiantes de secundaria y bachillerato en educación financiera
 
-## 5.2. Las debilidades detectadas en educación financiera y su incidencia en el desarrollo social.
+## 5.2. Las debilidades detectadas en educación financiera y su incidencia en el desarrollo social
 
-# CAPÍTULO VI. CONCLUSIONES. 
+# CAPÍTULO VI. CONCLUSIONES
 
 **\**
 
-# BIBLIOGRAFÍA.
+# BIBLIOGRAFÍA
 
 Arceo, E. O., & Villagómez, F. A. (2017). Financial literacy among
 Mexican high school teenagers. *International Review of Economics
@@ -2855,4 +2855,4 @@ Tavakol, M., & Dennick, R. (2011). Making sense of Cronbach's alpha.
 
 **\**
 
-# ANEXOS 
+# ANEXOS
