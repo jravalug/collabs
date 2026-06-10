@@ -48,13 +48,13 @@ Academic collaboration monorepo, organized by date (`YYYY-MM-DD/project-name/`).
 
 ## Repository conventions
 
-- **Language:** `AGENTS.md` → English. All project documents (`README.md`, `docs/`, reports) → **academic-cientific Spanish**.
+- **Language:** `AGENTS.md` → English. All project documents (`README.md`, `docs/`, reports) → **academic Spanish**.
 - **Tabular data** → `.csv`. Word docs → convert `.docx` → `.md` (`pandoc file.docx -o file.md`). Final deliverables → `.md` → `.docx` (`pandoc file.md -o file.docx`). XLSX → CSV via Excel export or Python stdlib script (zipfile + xml).
 - **Python analysis scripts** → managed with `uv`. Run `uv sync` after cloning or when dependencies change. Always use `uv add <pkg>` for new packages. Execute scripts with `uv run python src/<script>.py`.
 - **Validate column alignment** after CSV conversion: check demographics columns for expected value types. Fix rows shifted by empty cells.
 - **Normalize category labels**: extract base category before the first parenthesis when form exports include verbose option labels.
 - **Auto-generate `docs/data_dictionary.md`** from the cleanup script, documenting every variable (name, type, values, description, scale).
-- **Editorial norms**: All reports and manuscripts follow the reference standards saved in `project/docs/normas_editoriales/`. Primary reference: `estudios_gerenciales.md` — Times New Roman 12, interlineado 1.5, márgenes 3 cm, APA 6.ª ed., máximo 30 páginas, estructura IMRyD, anonimato, tono impersonal. Supplementary reference: `jbe.md` for English-language targets. Check these files before drafting any deliverable.
+- **Editorial norms**: All reports and manuscripts follow the reference standards saved in `project/docs/normas_editoriales/`. Primary reference: `estudios_gerenciales.md` — Times New Roman 12, 1.5 line spacing, 3 cm margins, APA 6th ed., max 30 pages, IMRaD structure, anonymity, impersonal tone. Supplementary reference: `jbe.md` for English-language targets. Check these files before drafting any deliverable.
 - **Reverse-code negative Likert items** (`col_inv = 6 - val`) so higher scores consistently mean better outcomes across all dimensions.
 - **Research similar studies online** at project start: search academic sources (Google Scholar, SciELO, RedALyC, Scopus) on the same topic to guide analytical decisions (test selection, thresholds, coding conventions). Cite sources in the methodology.
 - **Adapt methodology to the data**: not all projects use the same tests. Select statistical procedures based on the actual data (sample size, distributions, variable types, research questions). Methodology must be consistent with both the available data and similar studies found in the literature review.
@@ -66,24 +66,27 @@ Academic collaboration monorepo, organized by date (`YYYY-MM-DD/project-name/`).
 - **Bidirectional sync**: `sync.sh` at repo root syncs between `/home/.../collabs` (git, agent workspace) and `/mnt/d/collabs` (SPSS on Windows). On-demand: Jose requests sync, script analyzes diffs, routes files by type to correct directories, and verifies. Run `./sync.sh --dry-run` to preview.
 - **Table style (booktabs)**: All `.docx` tables must be post-processed with `src/formatear_tablas.py` after pandoc conversion. This applies the booktabs style: full page width, text columns left-aligned (`:---`), numeric columns right-aligned (`---:`), no vertical borders, horizontal borders only under the header and at the bottom of the table.
 - Jose exports tables as `.txt` and charts as `.png` from the Viewer to `results/`.
-- **Commit messages**: Use Conventional Commits: `tipo(alcance): descripción imperativa`. Tipos: `feat`, `fix`, `docs`, `refactor`, `chore`. Scope opcional. Primera línea ≤50 caracteres.
+- **Commit messages**: Use Conventional Commits: `tipo(alcance): descripción imperativa`. Tipos: `feat`, `fix`, `docs`, `refactor`, `chore`. Scope optional. First line ≤50 characters.
 - **All projects must follow the template structure below.**
 
 - **No fabricated author names**: If a project's documents do not explicitly state an author, do not add one. Never copy an author name from another project — each project must be treated independently. Use no author or a placeholder only after asking Jose.
-- **Reference doc**: Generate `reference.docx` via `python src/crear_referencia.py` at repo root before any pandoc conversion. This sets Times New Roman 12, interlineado 1.5, márgenes 3 cm, tamaño carta.
+- **Reference doc**: Generate `reference.docx` via `python src/crear_referencia.py` at repo root before any pandoc conversion. This sets Times New Roman 12, 1.5 line spacing, 3 cm margins, letter size.
 - **Locked files**: If `sync.sh` fails with "Permission denied", a Word lock file (`~$*.docx`) may exist in the target. Close Word on Windows or delete the `~$` file before retrying.
 
 ## Standard workflow
 
 ```
-0. Scaffold → crear estructura de carpetas según el template del proyecto
+0. Scaffold → create project directory structure from template
 1. Ingest   → data/raw/ (original .xlsx, .docx)
 2. Convert  → .xlsx→.csv (Excel), .docx→.md (pandoc)
 3. Process  → uv run python src/clean.py → data/processed/.csv
-4. Analyze  → uv run python src/analisis.py → results/ (.md tables, .png charts)
-5. Conclude → docs/conclusiones.md (cross-check against metodologia.md; identify needed graphs)
-6. Illustrate → uv run python src/graficos.py → results/ (.png charts)
-7. Deliver  → pandoc --reference-doc=../../reference.docx output/reporte_final.md -o output/reporte_final.docx
+4. Analyze  → draft spss/analisis.sps (all tables + /BARCHART FREQ)
+5. Execute  → Jose runs analisis.sps in SPSS, exports tables as .txt &
+             charts as .png from Viewer to results/
+6. Conclude → docs/conclusiones.md (cross-check against metodologia.md; identify needed graphs)
+7. Illustrate → draft spss/graficos.sps for target graphs
+8. Execute  → Jose runs graficos.sps in SPSS, exports charts as .png
+9. Deliver  → pandoc --reference-doc=../../reference.docx output/reporte_final.md -o output/reporte_final.docx
               uv run python src/formatear_tablas.py output/reporte_final.docx
 ```
 
@@ -97,7 +100,7 @@ YYYY-MM-DD/project-name/
 │   ├── raw/             Original files: .xlsx, .docx, .csv (immutable)
 │   └── processed/       Cleaned data: .csv, .sav
 ├── docs/                Academic docs in ES: .md
-├── src/                 Processing scripts: .py (stdlib only)
+├── src/                 Processing scripts: .py
 ├── spss/                SPSS syntax: .sps
 ├── results/             SPSS output: .txt, .xlsx, .png, .spv
 ├── output/              Final deliverables: .md → .docx
