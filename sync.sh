@@ -45,7 +45,7 @@ while IFS= read -r -d '' dir; do
   rel="${dir#$HOME_DIR/}"
   mnt="$MNT_DIR/$rel"
   [ -d "$mnt" ] || continue
-  $RSYNC $DRY "$mnt/" "$dir/"
+  $RSYNC $DRY --exclude='*.doc' "$mnt/" "$dir/"
   A_OK=1
 done < <(find "$HOME_DIR" -maxdepth 4 -type d -name "results" -not -path "*/.git/*" -print0 2>/dev/null)
 
