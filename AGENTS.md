@@ -50,7 +50,7 @@ Academic collaboration monorepo, organized by date (`YYYY-MM-DD/project-name/`).
 
 - **Language:** `AGENTS.md` → English. All project documents (`README.md`, `docs/`, reports) → **academic-cientific Spanish**.
 - **Tabular data** → `.csv`. Word docs → convert `.docx` → `.md` (`pandoc file.docx -o file.md`). Final deliverables → `.md` → `.docx` (`pandoc file.md -o file.docx`). XLSX → CSV via Excel export or Python stdlib script (zipfile + xml).
-- **Python scripts** in `src/` → stdlib only (no pip, no pandas, no requirements.txt).
+- **Python analysis scripts** → managed with `uv`. Run `uv sync` after cloning or when dependencies change. Always use `uv add <pkg>` for new packages. Execute scripts with `uv run python src/<script>.py`.
 - **Validate column alignment** after CSV conversion: check demographics columns for expected value types. Fix rows shifted by empty cells.
 - **Normalize category labels**: extract base category before the first parenthesis when form exports include verbose option labels.
 - **Auto-generate `docs/data_dictionary.md`** from the cleanup script, documenting every variable (name, type, values, description, scale).
@@ -79,15 +79,12 @@ Academic collaboration monorepo, organized by date (`YYYY-MM-DD/project-name/`).
 0. Scaffold → crear estructura de carpetas según el template del proyecto
 1. Ingest   → data/raw/ (original .xlsx, .docx)
 2. Convert  → .xlsx→.csv (Excel), .docx→.md (pandoc)
-3. Process  → src/*.py (stdlib) → data/processed/.csv
-4. Analyze  → draft spss/analisis.sps (all tables + /BARCHART FREQ)
-5. Execute  → Jose runs analisis.sps, exports tables as .txt &
-             charts as .png from Viewer to results/
-6. Conclude → docs/conclusiones.md (cross-check against metodologia.md; identify needed graphs)
-7. Illustrate → draft spss/graficos.sps for target graphs
-8. Execute  → Jose runs graficos.sps, exports charts as .png
-9. Deliver  → pandoc --reference-doc=../../reference.docx output/reporte_final.md -o output/reporte_final.docx
-              python src/formatear_tablas.py output/reporte_final.docx
+3. Process  → uv run python src/clean.py → data/processed/.csv
+4. Analyze  → uv run python src/analisis.py → results/ (.md tables, .png charts)
+5. Conclude → docs/conclusiones.md (cross-check against metodologia.md; identify needed graphs)
+6. Illustrate → uv run python src/graficos.py → results/ (.png charts)
+7. Deliver  → pandoc --reference-doc=../../reference.docx output/reporte_final.md -o output/reporte_final.docx
+              uv run python src/formatear_tablas.py output/reporte_final.docx
 ```
 
 ## Project template
