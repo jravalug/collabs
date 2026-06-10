@@ -1,0 +1,26 @@
+fila,campo,valor_original,valor_nuevo,motivo
+2,Sexo,F,Femenino,estandarización
+2,Edad,42 años,42,normalización a entero
+2,Antiguedad_funcionario,19 años,19,normalización a entero
+3,Sexo,F,Femenino,estandarización
+3,Antiguedad_funcionario,17 AÑOS,17,normalización a entero
+4,Sexo,F,Femenino,estandarización
+4,Edad,45 AÑOS,45,normalización a entero
+4,Antiguedad_funcionario,18 AÑOS,18,normalización a entero
+5,Sexo,F,Femenino,estandarización
+6,Sexo,M,Masculino,estandarización
+7,Sexo,M,Masculino,estandarización
+7,Edad,41AÑOS,41,normalización a entero
+7,Antiguedad_funcionario,19 AÑOS,19,normalización a entero
+8,Sexo,M,Masculino,estandarización
+9,Sexo,M,Masculino,estandarización
+9,Antiguedad_funcionario,18 años,18,normalización a entero
+10,Sexo,M,Masculino,estandarización
+10,Antiguedad_funcionario,12 años,12,normalización a entero
+11,Sexo,F,Femenino,estandarización
+12,Sexo,M,Masculino,estandarización
+13,Sexo,F,Femenino,estandarización
+14,Sexo,M,Masculino,estandarización
+14,Antiguedad_funcionario,26 años,26,normalización a entero
+15,Sexo,M,Masculino,estandarización
+16,Sexo,M,Masculino,estandarización

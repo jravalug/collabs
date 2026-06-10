@@ -69,12 +69,14 @@ Academic collaboration monorepo, organized by date (`YYYY-MM-DD/project-name/`).
 - **Commit messages**: Use Conventional Commits: `tipo(alcance): descripción imperativa`. Tipos: `feat`, `fix`, `docs`, `refactor`, `chore`. Scope opcional. Primera línea ≤50 caracteres.
 - **All projects must follow the template structure below.**
 
+- **No fabricated author names**: If a project's documents do not explicitly state an author, do not add one. Never copy an author name from another project — each project must be treated independently. Use no author or a placeholder only after asking Jose.
 - **Reference doc**: Generate `reference.docx` via `python src/crear_referencia.py` at repo root before any pandoc conversion. This sets Times New Roman 12, interlineado 1.5, márgenes 3 cm, tamaño carta.
 - **Locked files**: If `sync.sh` fails with "Permission denied", a Word lock file (`~$*.docx`) may exist in the target. Close Word on Windows or delete the `~$` file before retrying.
 
 ## Standard workflow
 
 ```
+0. Scaffold → crear estructura de carpetas según el template del proyecto
 1. Ingest   → data/raw/ (original .xlsx, .docx)
 2. Convert  → .xlsx→.csv (Excel), .docx→.md (pandoc)
 3. Process  → src/*.py (stdlib) → data/processed/.csv
