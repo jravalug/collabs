@@ -63,6 +63,8 @@ done < <(find "$HOME_DIR" -maxdepth 4 -type d -path "*/data/processed" -not -pat
 info "Fase B: Espejo completo (HOME → MNT)..."
 $RSYNC $DRY \
   --exclude='.git/' \
+  --exclude='.venv/' \
+  --exclude='.python-version' \
   --exclude='__pycache__/' \
   --exclude='*.pyc' \
   --exclude='~$*' \
