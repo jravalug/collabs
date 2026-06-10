@@ -70,7 +70,7 @@ Academic collaboration monorepo, organized by date (`YYYY-MM-DD/project-name/`).
 - **All projects must follow the template structure below.**
 
 - **No fabricated author names**: If a project's documents do not explicitly state an author, do not add one. Never copy an author name from another project — each project must be treated independently. Use no author or a placeholder only after asking Jose.
-- **Reference doc**: Generate `reference.docx` via `python src/crear_referencia.py` at repo root before any pandoc conversion. This sets Times New Roman 12, 1.5 line spacing, 3 cm margins, letter size.
+- **Reference doc**: Generate `reference.docx` via `uv run python src/crear_referencia.py` at repo root before any pandoc conversion. This sets Times New Roman 12, 1.5 line spacing, 3 cm margins, letter size.
 - **Locked files**: If `sync.sh` fails with "Permission denied", a Word lock file (`~$*.docx`) may exist in the target. Close Word on Windows or delete the `~$` file before retrying.
 
 ## Standard workflow
